@@ -115,8 +115,8 @@ input:nth-child(2):hover{
 }
 
 .card{
-    width: 60vh;
-    height: 70vh;
+    width: 50vh;
+    height: 60vh;
     background: #0009;
     display: grid;
     border-radius: 20px;
