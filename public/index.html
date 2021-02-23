@@ -8,10 +8,12 @@
   <title>Unknown</title>
 </head>
 <body class="bg-gray-200">
-    <nav>
-        <a href="/rus.html">Russkiy</a>
+    <nav class="flex shadow-lg justify-center fixed w-full mb-10 sm:px-10 px-5 top-0 left-0 bg-white rounded py-4">
+        <a class="mr-10" href="/">IAKT</a>
+        <a class="mr-10" href="/rus.html">RUS</a>
+        <a class="mr-10" href="/uzb.html">UZB</a>
     </nav>
-  <div id="quti" class="sm:mx-10 mx-5"></div>
+  <div id="quti" class="sm:mx-10 mx-5 mt-16"></div>
   <script>
     fetch("/iakt").then((Response)=>{
       Response.json().then((data)=>{
