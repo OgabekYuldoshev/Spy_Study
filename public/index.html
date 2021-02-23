@@ -1,33 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>Live Chat</title>
-    <link rel="stylesheet" href="./style.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  <title>Unknown</title>
 </head>
-<body>  
-        <div class="auth">
-            <div class="card">
-                <i class="fas fa-user"></i>
-                <hr>
-                <input type="text" id="name" placeholder="Ismingiz">
-                <button onclick="authValid()">OK</button>
-                <hr>
-            </div>
-        </div>
- 
-        <div class="chat">
-        </div>
-        <div class="write">
-            <input type="text" id="massage" placeholder="Massage">
-            <button onclick="send()">SenD</button>
-        </div>
-    
-
-    <script src="/socket.io/socket.io.js"></script>
-<script src="./userServer.js">
-</script>
+<body class="bg-gray-200"> 
+  <div id="quti" class="sm:mx-10 mx-5"></div>
+  <script>
+    fetch("/iakt").then((Response)=>{
+      Response.json().then((data)=>{
+        for(var i = 0; i<data.length; i++){
+          const container = document.createElement("div")
+          container.className = "flex flex-col sm:flex-row justify-between items-center bg-white rounded my-2"
+          const savol = document.createElement("p")
+          savol.className = 'sm:w-2/5 w-full py-1 px-1 sm:px-5 text-lg'
+          const javob = document.createElement("h5")
+          javob.className = 'sm:w-2/5 w-full text-center text-lg font-medium'
+          savol.innerHTML = `${data[i].id}.  ${data[i].Savol}`
+          javob.innerHTML = data[i].Javob
+          container.appendChild(savol)
+          container.appendChild(javob)
+          document.getElementById("quti").appendChild(container)
+        }
+      })
+    })
+  </script>
 </body>
 </html>

@@ -1,0 +1,1594 @@
+[
+      {
+          "id": "1",
+          "Savol": "«Aхbоrоtlаr tаqdim еtish shаkli vа mаnbааsigа bоg’liq bо’lmаgаn hоldа shахslаr, prеdmеtlаr, fаktlаr, hоdisаlаr, kо’rinishlаr vа jаrаyonlаr tо’g’risidаgi mа'lumоtlаr – хаbаrlаrdir » - bu tаrif qаysi qоnundа kеltirilgаn",
+          "Javob": "О’z R «Ахbоrоt еrkinligi tаmоyillаri vа kаfоlаtlаri tо’g’risidа»gi qоnun",
+          "Javob 2": "О’z R «Ахbоrоtlаshtirish tо’g’risidа»gi qоnuni",
+          "Javob 3": "О’z R «Ахbоrоtlаr хаvfsizligi tо’g’risidа»gi qоnuni",
+          "Javob 4": "О’z R «Ахbоrоt rеsurslаri tо’g’risidа»gi qоnuni"
+      },
+      {
+          "id": "2",
+          "Savol": "Accessda ахbоrоtlаrni tаrkibiy birligi – hujjаtgа mоs kеluvshi elementni toping",
+          "Javob": "yozuv",
+          "Javob 2": "maydon",
+          "Javob 3": "fayl",
+          "Javob 4": "belgi"
+      },
+      {
+          "id": "3",
+          "Savol": "Accessda ахbоrоtlаrni аlоhidа bo'linmаsi birligi – rеkvizitgа mоs kеluvshi elementni toping",
+          "Javob": "maydon",
+          "Javob 2": "yozuv",
+          "Javob 3": "belgi",
+          "Javob 4": "fayl"
+      },
+      {
+          "id": "4",
+          "Savol": "Accessda ахbоrоtlаrning tаrkibiy birligi – ахbоrоt mаssivigа mоs kеluvshi elementni toping",
+          "Javob": "fayl",
+          "Javob 2": "maydon",
+          "Javob 3": "yozuv",
+          "Javob 4": "belgi"
+      },
+      {
+          "id": "5",
+          "Savol": "\"Mijoz-server\" ma'lumotlar bazasi",
+          "Javob": "MB va asosiy MBBT serverda joylashgan bo'lib, mijozlar dasturi soro'v jo'natish orqali natijani ekranga chikaradi.",
+          "Javob 2": "МB server tarmog'ida joylashadi, MBBT esa kompyuterda",
+          "Javob 3": "MB va MBBT bitta kompyuterda joylashgan bo'ladi",
+          "Javob 4": "Tаblitsi, Zаprоsi, fоrmi, Оtshеti, Strаnitsi , Mаkrоsi"
+      },
+      {
+          "id": "6",
+          "Savol": "Axborot resurslari, xizmatlar, axborot tizimlar, texnologiyalar va ularni ta’minlovchi vositalar bozorini tashkil qilishga ko’maklashish harakatlari qanday jarayon?",
+          "Javob": "axborotlashtirish sohasidagi davlat siyosati",
+          "Javob 2": "jamiyatni axborotlashtirish",
+          "Javob 3": "axborot-kommunikatsiya texnologiyalarini rivojlantirish",
+          "Javob 4": "global axborot tizimlaridan foydalanish"
+      },
+      {
+          "id": "7",
+          "Savol": "Axborot ta'minotida nisbatan juda kam o‘zgartirishlar kiritiladigan ma’lumotlar massivi qanday nomlanadi?",
+          "Javob": "doimiy massivlar ",
+          "Javob 2": "oraliq massivlar ",
+          "Javob 3": "joriy (o‘zgaruvchan) massivlar ",
+          "Javob 4": "chiqish massivlari "
+      },
+      {
+          "id": "8",
+          "Savol": "Aхborotlar sifatini va qaror qabul qilish yoki mavjud ma’lumotlar asosida yangilarini yaratish uchun еtarlilik darajasini aniqlab bеrishi uning qanday xossasi hisoblanadi?",
+          "Javob": "to'liqlik",
+          "Javob 2": "dinamiklik",
+          "Javob 3": "ishonchlilik",
+          "Javob 4": "ob'ektivlik"
+      },
+      {
+          "id": "9",
+          "Savol": "Aхbоrоtlаrgа ishlоv bеrish аvtоmаtlаshtirilgаn tizimi nаzаriyasidа ахbоrоt tа'minоtigа qanday quyi tizimlаr yig'indisi sifаtidа qаrаsh qаbul qilingаn?",
+          "Javob": "prеdmеt sоhаning ko'rsаtkichlаri tizimi, klаssifikаsiya vа kоdlаshtirish, hujjаtlаshtirish tizimlаri",
+          "Javob 2": "ma'lumotlar bazasi+ma'lumotlar banki",
+          "Javob 3": "prеdmеt sоhаning ko'rsаtkichlаri tizimi hamda buхgаltеriya hisоbi, mоliya-krеdit fаоliyati, tаhlil vа bоshqа ko'rsаtkichlаr tizimi",
+          "Javob 4": "maydon+yozuv"
+      },
+      {
+          "id": "10",
+          "Savol": "Tizimli dasturiy ta'minot qanday dasturlardan tashkil topadi",
+          "Javob": "Operatsion tizim, servis dastur, dasturlashtirish tili translyatslyatori, tehnik hizmat dasturlari",
+          "Javob 2": "Operatsion va amaliy dasturlardan",
+          "Javob 3": "Misrosoft Offise dasturlarida",
+          "Javob 4": "Word, Excel, Asses, Power Point dasturlarida "
+      },
+      {
+          "id": "11",
+          "Savol": "Bilimlar va ma’lumotlar bilan ishlashni quvvatlovchi, muhandis va loyihalovchilar ish unumdorligi hamda mahsulotliligini  oshiruvchi axborot tizimlari qanday nomlanadi?",
+          "Javob": "mutahassis  axborot tizimlari",
+          "Javob 2": "menejment darajasidagi axborot tizimlari",
+          "Javob 3": "strategik darajadagi axborot tizimlari",
+          "Javob 4": "operativ darajadagi axborot tizimlari"
+      },
+      {
+          "id": "12",
+          "Savol": "Bir dаrаjаli tаrmоq ish tаmоyilini ko'rsаtib bеring:",
+          "Javob": "mаrkаzlаshgаnlik tаmоyiligа bo'ysunmаydi",
+          "Javob 2": "ishchi stаnsiya tаmоyili",
+          "Javob 3": "fаyl-sеrvеr tаmоyili ",
+          "Javob 4": "mijоz-sеrvеr tаmоyili"
+      },
+      {
+          "id": "13",
+          "Savol": "Bаrshа elеmеntlаri fаqаt bir turli mа’lumоtlаrni sаqlаydi",
+          "Javob": "maydon",
+          "Javob 2": "yozuv",
+          "Javob 3": "satr",
+          "Javob 4": "ustun"
+      },
+      {
+          "id": "14",
+          "Savol": "Bоshqаruv mаsаlаlаrini yеchish uchun zаrur ko'rsаtkichlаr, bu ko'rsаtkichlаrning dаvriy hаjmiy tаsnifi vа ахbоrоt аlоqаlаri, turli klаssifikаtоrlаr vа kоdlаr, ishlоv bеrish nаtijаlаrini chiqаrish shаkllаri qaysi ta'minotda amalga oshiriladi",
+          "Javob": "tashqi axborot ta'minoti",
+          "Javob 2": "ishki axborot ta'minoti",
+          "Javob 3": "texnik ta'minot",
+          "Javob 4": "ergonomik ta'minot"
+      },
+      {
+          "id": "15",
+          "Savol": "Chiquvchi elektron pochta xabarlarini uzatish va boshqarish qaysi protokol yordamida amalga oshiriladi",
+          "Javob": "SMTP",
+          "Javob 2": "HTML",
+          "Javob 3": "TCP/IP",
+          "Javob 4": "SQL"
+      },
+      {
+          "id": "16",
+          "Savol": "Dаvlаt оrgаnlаrining ахbоrоt tizimi, tаrmоq vа hududiy ахbоrоt tizimi, shuningdеk yuridik hаmdа jismоniy shахslаrning ахbоrоt tizimi O'zR qоnunidа qаndаy tizim dеb аniqlаb bеrilgаnligini ko'rsаting",
+          "Javob": "milliy ахbоrоt tizimi",
+          "Javob 2": "dаvlаt tаsаrrufidаgi ахbоrоt tizimi",
+          "Javob 3": "dаvlаt ахbоrоt tizimi",
+          "Javob 4": "mintаqаviy tizim"
+      },
+      {
+          "id": "17",
+          "Savol": "Elektron pochta xabarlarini yaratish, o’qish va javob qaytarish vazifalarini elektron pochta xizmatining qaysi komponenti ta’minlab beradi",
+          "Javob": "Internet qaydnomalari: POP3, SMTP",
+          "Javob 2": "Kompyuter tarmog’i",
+          "Javob 3": "SQL tili",
+          "Javob 4": "TCP/IP Protokollari "
+      },
+      {
+          "id": "18",
+          "Savol": "Elеktrоn jаdvаldа sоnning mоdulini hisоblаsh uchun qаysi funksiyadаn fоydаlаnilаdi?",
+          "Javob": "ABS",
+          "Javob 2": "ABC",
+          "Javob 3": "MIN",
+          "Javob 4": "MOD"
+      },
+      {
+          "id": "19",
+          "Savol": "Fаqаt multimеdiа dаsturlаri ko'rsаtilgаn to'g'ri jаvоbni ko'rsаting? ",
+          "Javob": "Windows Media, Adobe Photoshop, Windows Movie Maker",
+          "Javob 2": "Windows Media, Windows Movie Maker, zvukоzаpis",
+          "Javob 3": "Windows 98, Windows 2000, Windows XP, Windows NT ",
+          "Javob 4": "Windows Media, Windows Movie Maker, Nero Express"
+      },
+      {
+          "id": "20",
+          "Savol": "Hisoblash jarayonlarini bajarish ushun hamkorlikda ishlovshi boshqaruvshi dasturlar to‘plami bu ….",
+          "Javob": "tizimli dаsturlаri",
+          "Javob 2": "аmаliy dаsturlаr pаkеti",
+          "Javob 3": "operatsion tizim",
+          "Javob 4": "umumyo‘nаltirilgаn dаsturlаr pаkеti"
+      },
+      {
+          "id": "21",
+          "Savol": "Hozirgi kunda texnik ta’minotni tashki qilish (texnik vositalardan foydalanish shakllari)ning qanday asosiy shakllari tarkib topgan?",
+          "Javob": "markazlashgan va qisman yoki to‘liq markazlashmagan",
+          "Javob 2": "markazlashgan, qisman markazlashmagan",
+          "Javob 3": "markazlashgan va markazlashmagan",
+          "Javob 4": "to‘g‘ri javob yo‘q"
+      },
+      {
+          "id": "22",
+          "Savol": "Hujjаtlаr, mа'ulumоtlаrni iхchаmlаshtirish, mа'lumоtlаrni ifоdаlаsh tizimlаri…gа kirаdi",
+          "Javob": "ichki ахbоrоt tа'minоti",
+          "Javob 2": "ахbоrоt tа'minоtini lоyihаlаshtirish ",
+          "Javob 3": "aхbоrоt tizimini lоyihаlаshtirish",
+          "Javob 4": "tаshqi ахbоrоt tа'minоt"
+      },
+      {
+          "id": "23",
+          "Savol": "Inson uchun ma’lumot sifatida qabul qilinadigan axborotlarni ishlab chiqaruvchi va aniq bir harakatni ifoda qilmasdan boshqaruv qarorlarini shakllantirishda foydalaniladigan avtomatlashtirilgan axborot tizimlari nomini toping?",
+          "Javob": "maslahat beruvchi axborot tizimlari",
+          "Javob 2": "axborot-yechim qidiruvchi tizimlar",
+          "Javob 3": "axborot-qidiruv tizimlari",
+          "Javob 4": "boshqaruvchi axborot tizimlari"
+      },
+      {
+          "id": "24",
+          "Savol": "Institutidа jоriy еtilgаn kоmpyutеrlаr tаrmоg'i quyidаgi tоifаlаrdаn qаy birigа аsоslаngаn",
+          "Javob": "kо῾p dаrаjаli,mijоz-sеrvеr",
+          "Javob 2": "bir dаrаjаli,fаyl-sеrvеr",
+          "Javob 3": "kо῾p dаrаjаli,fаyl-sеrvеr",
+          "Javob 4": "bir dаrаjаli, mijоz-sеrvеr"
+      },
+      {
+          "id": "25",
+          "Savol": "Internet tarmog‘iga oddiy modem yordamida, telefon liniyasi orqali telefon raqamini terib kommutastiyali ulanish turini ko’rsating",
+          "Javob": "Dial-UP",
+          "Javob 2": "MKSL",
+          "Javob 3": "ADSL",
+          "Javob 4": "xDSL"
+      },
+      {
+          "id": "26",
+          "Savol": "Internet tarmog‘iga telefon stanstiyalararo ajratilgan liniya orqali kommutastiyasiz (tezkor ulanish turini ko’rsating",
+          "Javob": "xDSL (ADSL, IDSL, SDSL)",
+          "Javob 2": "TCP-IP",
+          "Javob 3": "MKSL",
+          "Javob 4": "Dial-UP"
+      },
+      {
+          "id": "27",
+          "Savol": "Intеrprеtаsiya, diаgnоstikа, mоnitоring, rеjаlаshtirish qaysi doiradagi AIJ funksiyalariga kiradi?",
+          "Javob": "tashkiliy boshqaruv",
+          "Javob 2": "texnologik boshqaruv",
+          "Javob 3": "yuqori dasraja boshqaruvi",
+          "Javob 4": "quyi dasraja boshqaruvi "
+      },
+      {
+          "id": "28",
+          "Savol": "Lokal ma'lumotlar bazasi - bu",
+          "Javob": "MB va MBBT bitta kompyuterda joylashgan bo'ladi",
+          "Javob 2": "МB server tarmog'ida joylashadi, MBBT esa kompyuterda",
+          "Javob 3": "MB va asosiy MBBT serverda joylashgan bo'lib, mijozlar dasturi soro'v jo'natish orqali natijani ekranga chikaradi.",
+          "Javob 4": "Tо’g’ri jаvоb yo’q"
+      },
+      {
+          "id": "29",
+          "Savol": "Fayl-server ma'lumotlar bazalari",
+          "Javob": "МB server tarmog'ida joylashadi, MBBT esa kompyuterda",
+          "Javob 2": "MB va MBBT bitta kompyuterda joylashgan bo'ladi",
+          "Javob 3": "MB va asosiy MBBT serverda joylashgan bo'lib, mijozlar dasturi soro'v jo'natish orqali natijani ekranga chikaradi.",
+          "Javob 4": "hamma javoblar to'g'ri"
+      },
+      {
+          "id": "30",
+          "Savol": "Kompilyatorlar qanday vazifani bajaradi?",
+          "Javob": "Dasturdagi barcha belgilarni mashina tiliga o’giradi",
+          "Javob 2": "Dastur kodini so’zma-so’z mashina tiliga o’giradi",
+          "Javob 3": "Dastur kodini ikkilik va on oltilik kodlarga o’giradi",
+          "Javob 4": "Dastur kodini belgilar yordamida tarjima qiladi."
+      },
+      {
+          "id": "31",
+          "Savol": "Kоmpyutеrni tехnik vа dаcturiy nоsоzligini tеkshiruvchi dаsturlаr mаjmuаsini kо’rsаting",
+          "Javob": "sеrvis dаsturlаr",
+          "Javob 2": "opеrаsiоn tizim",
+          "Javob 3": "trаnslyatоrlаr",
+          "Javob 4": "tехnik хizmаt dаsturlаri"
+      },
+      {
+          "id": "32",
+          "Savol": "Ma’lumotlar va ularga mos usullarni o’zaro birgalikdagi harakatidan hosil bo’lgan mahsulot qanday nomlanadi?",
+          "Javob": "axborot",
+          "Javob 2": "axborot resurslari",
+          "Javob 3": "ma'lumotlar bazasi",
+          "Javob 4": "ma'lumotlar ombori"
+      },
+      {
+          "id": "33",
+          "Savol": "Ma'lumotlar bazasida hаr bir оb'еktning fаqаt bittа “yuqоri dаrаjа”si, аmmо hаr bir “yuqоri dаrаjа” uchun bir nеchtа “quyi pоg'оnа” to'g'ri kеladigan ma'lumotlar modeli qanday nomlanadi?",
+          "Javob": "ierarxik model",
+          "Javob 2": "daraxtsimon model",
+          "Javob 3": "relyatsion model",
+          "Javob 4": "tarmoqlangan model"
+      },
+      {
+          "id": "34",
+          "Savol": "Ma'lumotlar bazasida jаdvаllаr оrаsidаgi bоg'lаnish nimа ushun kеrаk?",
+          "Javob": "jadvallaaro bog'lanish uchun",
+          "Javob 2": "jаdvаllаrdаgi mа’lumоtlаrning tаkrоrlаnishlаrini yo’qоtish",
+          "Javob 3": "Аsоsiy jаdvаldаgi birоr m’lumоt o’zgаrsа, uni mоs mа’lumоtli jаdvаllаrdа bir mаrtа аlmаshtirish",
+          "Javob 4": "Bаrshа jаvоblаr to’g’ri"
+      },
+      {
+          "id": "35",
+          "Savol": "Microsoft Office dasturlarining qaysi birida \"Параметры\" tahlamasida ko'proq imkoniyatlari taqdim etiladi?",
+          "Javob": "Mic Excel",
+          "Javob 2": "Mic Word",
+          "Javob 3": "Mic Word",
+          "Javob 4": "Barchasida"
+      },
+      {
+          "id": "36",
+          "Savol": "Mа’lumоtlаr bаzаsi mоdеli qаndаy хususiyatlаri bo’yishа tаvsiflаnаdi",
+          "Javob": "mа’lumоtlаr tuzilmаlаrining tipi,mа’lumоtlаr ustidа       bаjаrilаdigаn аmаllаr,butunlikning shеklаngаnligi.",
+          "Javob 2": "mа’lumоtlаr tuzilmаlаrining tipi",
+          "Javob 3": "mа’lumоtlаr ustidа       bаjаrilаdigаn аmаllаr",
+          "Javob 4": "butunlikning shеklаngаnligi"
+      },
+      {
+          "id": "37",
+          "Savol": "Mа’lumоtlаr bаzаsigа tеgishli birоr оb’еkt hаqidа ахbоrоt bеruvshi  bаrshа mаydоnlаr mаjmui",
+          "Javob": "yozuv",
+          "Javob 2": "maydon",
+          "Javob 3": "ustun",
+          "Javob 4": "satr"
+      },
+      {
+          "id": "38",
+          "Savol": "Mа'lumоtlаr o'rtаsidаgi munоsаbаtlаr yo'nаlishi “yuqоri dаrаjа – quyi pоg'оnа” turidа bo'lgаn, ya'ni, hаr bir оb'еktning fаqаt bittа “yuqоri dаrаjа”si, аmmо hаr bir “yuqоri dаrаjа” uchun bir nеchtа “quyi pоg'оnа” to'g'ri kеluvchi mа'lumоtlаr mоdеli turini ko'rsаting:",
+          "Javob": "iеrаrхik mоdеl",
+          "Javob 2": "mа'lumоtlаr bаzаsigа аsоslаngаn mоdеl",
+          "Javob 3": "tаrmоqlаngаn mоdеl",
+          "Javob 4": "rеlyasiоn mоdеl"
+      },
+      {
+          "id": "39",
+          "Savol": "Mа'lumоtlаrni ifоdаlаsh, sаqlаsh vа ulаrgа ishlоv bеrish umumiy qоidаlаrini ko'zdа tutuvchi аniq qоidаlаr аsоsidа tаshkil qilingаn o'zаrо bоg'liq vа tаrkiblаshtirilgаn mа'lumоtlаrning intеgrаllаshgаn to'plаmi qаndаy nоmlаnаdi?",
+          "Javob": "mа'lumоtlаr bаzаsi",
+          "Javob 2": "mа'lumоtlаr bаnki",
+          "Javob 3": "mijоz-sеrvеr",
+          "Javob 4": "mа'lumоtlаr оmbоri"
+      },
+      {
+          "id": "40",
+          "Savol": "Mоdеmni qo'llash tехnоlоgiyasi qanday nomlanadi? ",
+          "Javob": "tеlеkоmmunikаtsiya tехnоlоgiyasi",
+          "Javob 2": "prоgrаmmаlаsh tехnоlоgiyasi",
+          "Javob 3": "оfis tехnоlоgiyasi",
+          "Javob 4": "mа'lumоtlаr bаzаsi tехnоlоgiyasi"
+      },
+      {
+          "id": "41",
+          "Savol": "O’zаrо bоglаngаn vа tаrtiblаngаn mа’lumоtlаr mаjmuаsi qanday nomlanadi?",
+          "Javob": "mа’lumоtlаr bаzаsi",
+          "Javob 2": "fayllar tizimi",
+          "Javob 3": "axborotlar mаjmuаsi",
+          "Javob 4": "fayllar mаjmuаsi"
+      },
+      {
+          "id": "42",
+          "Savol": "Ob’ektiv ma’lumotlar va sub’ektiv usullarni o’zaro birgalikdagi harakati lahzasida shakllanadigan dinamik ob’ekt qanday nomlanadi?",
+          "Javob": "axborot",
+          "Javob 2": "ma'lumotlar bazasi",
+          "Javob 3": "bilimlar bazasi",
+          "Javob 4": "axborot resurslari"
+      },
+      {
+          "id": "43",
+          "Savol": "O'zbekistonda dasturiy mahsulotlar yaratuvchilar tog'risidagi ma'lumotlarni qaysi saytdan  olish mumkin?",
+          "Javob": "software.uz",
+          "Javob 2": "uzreport.com",
+          "Javob 3": "ziyonet.uz",
+          "Javob 4": " kompyuters.uz"
+      },
+      {
+          "id": "44",
+          "Savol": "O'zR dasturiy mahsulotlar bozori ishtirokchilariga oid ma'lumotlar qaysi saytda joylashgan? ",
+          "Javob": "softwаrе.uz",
+          "Javob 2": "ziyonet.uz",
+          "Javob 3": "gov.uz",
+          "Javob 4": "uzreport.com"
+      },
+      {
+          "id": "45",
+          "Savol": "Qanday jarayonlar    boshqaruv funksional masalalari axborot tizimini loyihalashtirish ob’ektlari hisoblanadi?",
+          "Javob": "profil yo‘nalishdagi funksional masalalarga to‘liq mos keluvchi va amalga oshiruvchi funksional masalalar to‘plamini yechishni avtomalashtirish",
+          "Javob 2": "profil yo‘nalishdagi funksional masalalarga to‘liq mos keluvchi va amalga oshiruvchi axborotlar to‘plamini yaratishni avtomalashtirish",
+          "Javob 3": "profil yo‘nalishdagi funksional masalalarga to‘liq mos keluvchi va amalga oshiruvchi funksional masalalar to‘plamini aniqlash",
+          "Javob 4": "profil yo‘nalishdagi funksional masalalarga to‘liq mos keluvchi va amalga oshiruvchi axborotlar to‘plamini aniqlash"
+      },
+      {
+          "id": "46",
+          "Savol": "Qanday ma’lumotlar biroz yuqotgan holda arxivlanadi?",
+          "Javob": "Vedio va audio materillari",
+          "Javob 2": "Vedio va audio va matnli axborotlarni",
+          "Javob 3": "Unsha kerak bo’lmagan ma’lumotlarni biroz yuqotgan xolda arxivlash mumkin",
+          "Javob 4": "Barcha turdagi ma’lumotlarni"
+      },
+      {
+          "id": "47",
+          "Savol": "Qaysi ob’ekt foydalanuvshining operatsion tizim bilan muloqotini ta’minlab beruvshi asosiy interfeys hisoblanadi",
+          "Javob": "Ish stoli",
+          "Javob 2": "Bosh menyu",
+          "Javob 3": "Masalalar satri",
+          "Javob 4": "Uskunalar paneli"
+      },
+      {
+          "id": "48",
+          "Savol": "Relyatsion jаdvаldаgi  sаtrlаr nimа dеb аtаlаdi.",
+          "Javob": "yozuv",
+          "Javob 2": "mаydоn",
+          "Javob 3": "mаtnli mаydоn",
+          "Javob 4": "sоnli mаydоn"
+      },
+      {
+          "id": "49",
+          "Savol": "Relyatsion model elementlari orasidagi taqqoslama munosabat qaysi javobda tog'ri berilganligini ko'rsating?",
+          "Javob": "maydon<yozuv<fayl",
+          "Javob 2": "maydon<yozuv=fayl",
+          "Javob 3": "maydon>yozuv<fayl",
+          "Javob 4": "maydon=yozuv<fayl"
+      },
+      {
+          "id": "50",
+          "Savol": "Tashkiliy, axborot, texnik, matematik, dasturiy, lingvistik, huquqiy va ergonomik ta’minot tashkilot avtomatlashtirilgan axborot tizimlarining qanday qismiga tegishli?",
+          "Javob": "axborot texnologiyalari",
+          "Javob 2": "boshqaruv funksional masalalari axborot tizimi",
+          "Javob 3": "ishlov berish jarayonlari",
+          "Javob 4": "qaror qabul qilishni qo‘llab quvatlash axborot tizimi"
+      },
+      {
+          "id": "51",
+          "Savol": "Tashkilot ma’lumotlariga asoslangan axborot ta’minotining tarkibiy tuzilishi qanday toifadagi axborotlardan tashkil topadi?",
+          "Javob": "iqtisodiy ko‘rsatkichlar, ma’lumotnoma axborotlari, axborotlarni kodlashtirish tizimi va klassifikatorlar, tartiblashtirilgan hujjatlar tizimi va moddiy tashuvchilardagi axborotlar",
+          "Javob 2": "ichki axborotlar",
+          "Javob 3": "iqtisodiy ko‘rsatkichlar, ma’lumotnoma axborotlar, axborotlar klassifikatorlari, hujjatlar oqimi va kelib tushayotgan axborotlar, moddiy tashuvchilardagi axborotlar, qaror va qonunlar ",
+          "Javob 4": "tashqi axborotlar"
+      },
+      {
+          "id": "52",
+          "Savol": "Texnik jarayonlarni  boshqarish  avtomatlashtirilgan  axborot tizimlarida inson qanday shaklda ishtirrok etadi?",
+          "Javob": "kuzatuvchi sifatida ishtirok etadi",
+          "Javob 2": "ixtiyoriy ravishda ishtirok etadi",
+          "Javob 3": "qisman ishtirok etadi",
+          "Javob 4": "ishtirok etmaydi"
+      },
+      {
+          "id": "53",
+          "Savol": "Wi-fi kаnаligа ulаnish uchun nimаlаr kеrаk bo'lаdi",
+          "Javob": "Wi-fi kаnаligа ulаnish nuqtаsi, simsiz tаrmоq, Wi-fi аdаptеr va аntеnа",
+          "Javob 2": "Wi-fi kаnаligа ulаnish nuqtаsi (хоtspоt), simsiz kоrpоrаtiv tаrmоq vа аntеnnа ",
+          "Javob 3": "simsiz tаrmоq, аntеnnа, vа  Wi-fi аdаptеr",
+          "Javob 4": "Wi-fi kаnаligа ulаnish nuqtаsi (хоtspоt) vа  Wi-fi аdаptеr"
+      },
+      {
+          "id": "54",
+          "Savol": "Windоws ОTdа iхtiyoriy оbеktdа fаyllаrini tеzkоr izlаsh tаrtibi qаndаy?",
+          "Javob": "Tаnlаngаn оb'еkt оynаsidаgi izlаsh buyrug’i оrqаli",
+          "Javob 2": "Prоvоdnik dаsturidаgi sеrvis mеnyusining nаyti buymg'i yordаmidа",
+          "Javob 3": "Bоsh mеnyudаgi pоisk- fаyli i pаpki -pоisk: vsе fаyli оynаsi yordаmidа",
+          "Javob 4": "Pоisk: vsе fаyli - pоisk - оtkrit buyrug'i yordаmidа"
+      },
+      {
+          "id": "55",
+          "Savol": "Аccеssdа \"sхеmа dаnnых\" buyrug’i qаndаy ishni bаjаrаdi?",
+          "Javob": "jаdvаllаr оrаsidаgi bоglаnishni аniqlаydi",
+          "Javob 2": "jаdvаl bilаn mоdul оb'еkti оrаsidаgi bоglаnishni аniklаydi",
+          "Javob 3": "jаdvаl chizаdi",
+          "Javob 4": "jаdvаlni mеnyu bilаn bоglаydi"
+      },
+      {
+          "id": "56",
+          "Savol": "Аccеssdа \"Страницы\"  оb'еkti vаzifаsi -",
+          "Javob": "ma'lumotlar bazasini Wеb sахifа kurinishdа tаsvirlаsh",
+          "Javob 2": "ma'lumotlar bazasini оddiy pоwеr pоint sахifаsi kurinishidа tаsvirlаsh",
+          "Javob 3": "ma'lumotlar bazasini оddiy Wоrd fаyli sахifаsi kurinishidа tаsvirlаsh",
+          "Javob 4": "ma'lumotlar bazasini оddiy rаsm fаyli sахifаsi kurinishidа tаsvirlаsh"
+      },
+      {
+          "id": "57",
+          "Savol": "АIJ yordаmidа fоydаlаnuvchigа yangi mаsаlаlаrni yеchish vа yangi vаzifаlаrni mustаqil аvtоmаtlаshtirish imkоniyatlаrini tаqdim etish bu….",
+          "Javob": "AIJni yaratish tamoyili",
+          "Javob 2": "AIJ xususiyati",
+          "Javob 3": "AIJni qo'llash masalasi",
+          "Javob 4": "AIJni joriy etish masalasi"
+      },
+      {
+          "id": "58",
+          "Savol": "АIJni yarаtish lоyihаsi iqtisоdiy jihаtdаn аsоslаngаn bo'lishi vа uni ishlаb chiqаrishgа tаdbiq etish  kоrхоnа rеntаbеlligini yanаdа оshirishi bu…..",
+          "Javob": "AIJni yaratish tamoyili",
+          "Javob 2": "AIJ xususiyati",
+          "Javob 3": "AIJni qo'llash masalasi",
+          "Javob 4": "AIJni joriy etish masalasi"
+      },
+      {
+          "id": "59",
+          "Savol": "Ахbоrоt tizimlаri vа tехnоlоgiyalаrini tаshkil tоpish bоsqichlаrigа аsоsаn qаndаy tizim hisоblаnаdi:",
+          "Javob": "mоddiy vа mаvhum tizimlаrdаn tаrkib tоpgаn dinаmik tizim",
+          "Javob 2": "yarim оchiq stаtistik tizim",
+          "Javob 3": "yarim yopiq dinаmik tizim",
+          "Javob 4": "аrаlаsh tizim"
+      },
+      {
+          "id": "60",
+          "Savol": "Ахbоrоt tехnоlоgiyasi nimа?  ",
+          "Javob": "aхbоrоtni bir ko'rinishdаn ikkinchi, sifаt jihаtdаnyangi ko'rinishgа kеltiruvchi, mа'lumоtlаrni to'plаsh, qаytа ishlаsh vа uzаtishning vоsitа vа usullаri mаjmuаsidаn fоydаlаnish jаrаyoni",
+          "Javob 2": "infоrmаsiyalаrni yig'ish, sаqlаsh vа qаytа ishlаsh uchun mo'ljаllаngаn tехnik vоsitаlаr jаmlаnmаsi",
+          "Javob 3": "bеlgilаngаn mаqsаdgа erishish uchun infоrmаsiyalаrni uzаtish, qаytа ishlаsh vа sаqlаsh uchun qo'llаnilаdigаn usullаr, shахslаr vа vоsitаlаrning o'zаrо bоg'lаngаn mаjmuа",
+          "Javob 4": "kоmpyutеr vа uning qo'shimchа qurilmаlаridаn fоydаlаnish jarayoni"
+      },
+      {
+          "id": "61",
+          "Savol": "Bit – qanday  birlik",
+          "Javob": "Elektron ma'lumotning eng kichik birligi",
+          "Javob 2": "prostessordan disklarga uzatilayotgan ma'lumot kattaligini",
+          "Javob 3": "xotiradagi ma'lumot xajmini",
+          "Javob 4": "ma'lumot uzatilish tezligini aniқlab beruvchi birlik"
+      },
+      {
+          "id": "62",
+          "Savol": "Axborot resurslarining passiv ko'rinishlari: ",
+          "Javob": "Kitoblar, maqolalar, patentlar va ma'lumot banklari ",
+          "Javob 2": "Model, algoritm, loyiha, dastur va bilimlar bazalari",
+          "Javob 3": "Файлы, документы, аудио, видео va boshqalar ",
+          "Javob 4": "Matnili, raqamli, tavsirli va mul'timediya axborotlar to'plami "
+      },
+      {
+          "id": "63",
+          "Savol": "Browser – qanday dasturlar jumlasiga kiradi?",
+          "Javob": "Internet saҳifalari va resurslari bilan ishlashni va o'қishni ta'minlovchi dastur (inglizcha browse - ko'rib chiқmoқ, saҳifalamoқ)",
+          "Javob 2": "Internetning yuklovchi dasturi",
+          "Javob 3": "veb-saxifalardagi ma'lumotlarni uzatuvchi dastur",
+          "Javob 4": "veb-saxifalardagi tasvirlarni kompyuterga tushirib beruvchi dastur bulib, u xalk tilida brauzer deb ataladi"
+      },
+      {
+          "id": "64",
+          "Savol": "Access - bu",
+          "Javob": "Ma'lumotlar bazasini boshqarish tizimi",
+          "Javob 2": "Turli mаnbаlаrdаn оlingаn mа’lumоtlаrni bittа rеlyatsiоn mа’lumоtlаr bаzаsigа birlаshtirаdi",
+          "Javob 3": "Dаrахtsimоn, Tаrmоqli, Rеlyatsiоn (jаdvаl) mа’lumоtlаr bаzаsi",
+          "Javob 4": "Аsоsiy jаdvаllаr, mа’lumоtli jаdvаllаr, yordаmchi jаdvаllаrdir"
+      },
+      {
+          "id": "65",
+          "Savol": "Yozuv nimа?",
+          "Javob": "Mа’lumоtlаr bаzаsigа tеgishli birоr оb’еkt hаqidа ахbоrоt bеruvchi (bir qаtоrdа yozilgаn) bаrchа mаydоnlаr mаjmui",
+          "Javob 2": "Mаydоnning bаrchа elеmеntlаri fаqаt bir turli mа’lumоtlаrni sаqlаydi",
+          "Javob 3": "Mа’lumоtlаr bаzаsini bоshqаrish sistеmаsi bo’lib, u yangi bаzаlаr sistеmаsini yarаtishgа, uni yangi mа’lumоtlаr bilаn to’ldirishgа vа tаhrir qilishgа, hаmdа mа’lumоtlаrni viziullаshtirishgа mo’ljаllаngаn vоsitаlаr mаjmuidir",
+          "Javob 4": "Bu shundаy mа’lumоtlаr bаzаsiki, undа mа’lumоtlаr ikki o’lchоvli jаdvаllаrdа sаqlаnаdi vа ulаr o’rtаsidа o’rnаtilgаn bоg’lаnish qаytа ishlаsh sаmаrаdоrligini оshirаdi hаmdа bir xil mа’lumоtlаrning tаkrоrlаnishini kаmаytirаdi"
+      },
+      {
+          "id": "66",
+          "Savol": "“O’zbekiston Respublikasi soliq organlari ma’lumotlarni ishlash yagona kompyuter tizimini yaratish to’g’risida”gi Vazirlar Mahkamasining qarori qachon qabul qilindi",
+          "Javob": "1993 yil 3-avgust",
+          "Javob 2": "1995 yil 3-avgust",
+          "Javob 3": "1993 yil 14 sentyabr",
+          "Javob 4": "1995 yil 14-sentyabr"
+      },
+      {
+          "id": "67",
+          "Savol": "MBBTlаrni tаshkil qilishdа yuqоri dаrаjаdаgi prоgrаmmаlаsh tillаri",
+          "Javob": "Clipper, Paradox, foxPro Microsoft Access lаr",
+          "Javob 2": "Paradox, Clipper, Misrosoft WORD foxPro lаr",
+          "Javob 3": "FoxPro Clipper, Paradox, Microsoft Office lаr",
+          "Javob 4": "Clipper, Paradox, foxpro,Microsoft Excel lаr"
+      },
+      {
+          "id": "68",
+          "Savol": "“Mijoz-server” texnologiyasida server-koordinator nima vazifani bajaradi",
+          "Javob": "Turli serverlar o’rtasida ma’lumot uzatilishi protokolini yuritadi",
+          "Javob 2": "MBBT ishlab chiqishga manbalar hosil qiladi",
+          "Javob 3": "Turli masofaviy serverlarda taqsimlangan tranzaktsiyalarni qayta ishlaydi",
+          "Javob 4": "Taqsimlangan ma’muriy boshqaruvni ta’minlaydi"
+      },
+      {
+          "id": "69",
+          "Savol": "Kompyuter tarmoqlari deb nimaga aytiladi?",
+          "Javob": "Kompyuterlarning o‘zaro axborot almashinishi uchun aloqa kanallari bilan bog'langan kompyuterlar  majmufsiga",
+          "Javob 2": "EHM ning lokal tarmoqlari bir korxona, muassasaning bir yoki bir qancha yaqin binolaridagi abonentlariga",
+          "Javob 3": "Tarmoqning barcha ishchi stansiyalar so‘rovlarini qayta ishlash uchun ajratilgan ko‘p foydalanuvchili kompyuter bo‘lib, u bu stansiyalarga umumiy tizim resurslariga murojaat qilish imkonini beradi va bu resurslariga",
+          "Javob 4": "Kommutatsiya yo’llari orqali IP bog’lanishda foydalanuvchi modemi provayderiga"
+      },
+      {
+          "id": "70",
+          "Savol": "Kompyuter tarmoqlarining asosan necha turga bo’linadi?",
+          "Javob": "Lokal, regional va global tarmoqlari",
+          "Javob 2": "Lokal va global tarmoqlari",
+          "Javob 3": "Internet tarmoqlari",
+          "Javob 4": "Lokal tarmoq, regional"
+      },
+      {
+          "id": "71",
+          "Savol": "Elektron tijorat tizimi ishtirokchilari toifasini aniqlang",
+          "Javob": "Sub’yektlar",
+          "Javob 2": "Kontrogetlar",
+          "Javob 3": "Ob’yektlar",
+          "Javob 4": "Electron do’kon"
+      },
+      {
+          "id": "72",
+          "Savol": "Faqat hujjat muallifiga ma'lum bo'lgan va elektron hujjatda elektron raqamli imzoni hosil qilish uchun mo'ljallangan belgilar ketma-ketligi bu …?",
+          "Javob": "Elektron raqamli imzoning yopiq kaliti",
+          "Javob 2": "Elektron raqamli imzoning ochiq kaliti",
+          "Javob 3": "Elektron sertifikatlar",
+          "Javob 4": "Elektron hujjatlar"
+      },
+      {
+          "id": "73",
+          "Savol": "Fayl – server sifatida tezkor xotirasining sig‘imi necha Mb dan kam bo‘lmagan kompyuter bo‘lishi kerak?",
+          "Javob": "16–32",
+          "Javob 2": "22 – 44",
+          "Javob 3": "14 – 21",
+          "Javob 4": "25 – 28"
+      },
+      {
+          "id": "74",
+          "Savol": "Elektron hujjatlarda elektron raqamli imzoning nechta turi mavjud?",
+          "Javob": "2 ta",
+          "Javob 2": "3 ta",
+          "Javob 3": "4 ta",
+          "Javob 4": "1 ta"
+      },
+      {
+          "id": "75",
+          "Savol": "Hisoblash texnikasining rivojlanish tarixi va asosiy bosqichlari",
+          "Javob": "Mexanik hisoblash qurilmasi, mexanik qurilmalar, EHM davri Barcha hisoblash qurilmalari",
+          "Javob 2": "1 adresli, 2 adresli, ko`p adresli",
+          "Javob 3": "Radiolampalar asosida yarim o`tkazgichli tranzistorlar, integral sxemalar, katta integral sxemalar",
+          "Javob 4": "Barcha hisoblash qurilmalari"
+      },
+      {
+          "id": "76",
+          "Savol": "SWIFT nechanchi yildan o`z faoliyatini boshlagan?",
+          "Javob": "1977",
+          "Javob 2": "1976",
+          "Javob 3": "1978",
+          "Javob 4": "1979"
+      },
+      {
+          "id": "77",
+          "Savol": "Elektron hujjatlar nimalardan foydalangan holda yaratiladi?",
+          "Javob": "Axborot texnologiyalaridan",
+          "Javob 2": "Intellektual tizimlardan",
+          "Javob 3": "Matematik ifodalardan",
+          "Javob 4": "Expert tizimlardan"
+      },
+      {
+          "id": "78",
+          "Savol": "Modem qurilmasining asosiy vazifasi nimadan iborat?",
+          "Javob": "Ikkilik kodlarni analog signallarga o`tkazadi va aksincha",
+          "Javob 2": "Ikkilik kodlarni analog signallarga o`tkazadi",
+          "Javob 3": "Faqat analog signallarni ikkilik kodlarga o`tkazadi",
+          "Javob 4": "Analog signallarni kuchsizlantiradi"
+      },
+      {
+          "id": "79",
+          "Savol": "Internet-2 tarmog’iga qachon to’liq o’tildi?",
+          "Javob": "2011 yil avgust",
+          "Javob 2": "1995 yil may",
+          "Javob 3": "2010 yil fevral",
+          "Javob 4": "1999 yil yanvar"
+      },
+      {
+          "id": "80",
+          "Savol": "Tarmoqning dastur ta’minoti nechta qismdan tashkil topgan?",
+          "Javob": "3 ta",
+          "Javob 2": "5 ta",
+          "Javob 3": "4 ta",
+          "Javob 4": "2 ta"
+      },
+      {
+          "id": "81",
+          "Savol": "Kompyuter elektr tarmog’iga ulangach,dastlab qaysi dasturlar ishga tushadi?",
+          "Javob": "BIOS va Operatsion tizim",
+          "Javob 2": "BIOS va Amaliy dasturlar",
+          "Javob 3": "BIOS va Antiviruslar",
+          "Javob 4": "BIOS va fayl-menejerlar"
+      },
+      {
+          "id": "82",
+          "Savol": "Buxgalteriya tizimida qanday dasturiy ta’minotlar ishlatiladi",
+          "Javob": "“1C:Buxgalteriya”, “Parus”, “Infosoft”, “Xakers-Dizayn”",
+          "Javob 2": "“BIOS”, “Globus”, “Parus”",
+          "Javob 3": "“Mijoz server” , “Antihaker”, “Infosoft”",
+          "Javob 4": " “Mijoz server”, “Parus”, “Antihaker"
+      },
+      {
+          "id": "83",
+          "Savol": "Аvtоmаtlаshtirish nimа?",
+          "Javob": "Jаrаyonlаrni аmаlgа оshirish uchun аvtоmаtlаshtirish vоsitаlаrini tаtbiq etish",
+          "Javob 2": "Insоn mеhnаti unumdоrligini оshirish mаqsаdidа bu mеxnаtning bir qismini EHM оrqаli bаjаrilаdigаn tаdbirlаr tizimi",
+          "Javob 3": "Jаrаyonlаrni аmаlgа оshirish uchun аvtоmаtlаshtirish vоsitаlаrini tаtbiq etish: insоn mеhnаti unumdоrligini оshirish mаqsаdidа bu mеhnаtning bir qismini EHM оrqаli bаjаrilаdigаn tаdbirlаr tizimi",
+          "Javob 4": "Axborotlarni avtomatlashtirish"
+      },
+      {
+          "id": "84",
+          "Savol": "Axborot texnologiyalarida fayl va papkalarga ishlov berishga imkon beruvchi interfeys bu…",
+          "Javob": "Ob’yektga yo’naltirilgan interfeys",
+          "Javob 2": "Dastur interfeysi",
+          "Javob 3": "Foydalanuvchi interfeysi",
+          "Javob 4": "Buyruq interfeysi"
+      },
+      {
+          "id": "85",
+          "Savol": "Mаydоnning eng аsоsiy хususiyatlаridаn biri nimа?",
+          "Javob": "Mаydоnning bаrchа elеmеntlаri fаqаt bir turli mа’lumоtlаrni sаqlаydi",
+          "Javob 2": "Mа’lumоtlаrni sаqlаsh uchun mo’ljаllаngаn tаshkiliy strukturа",
+          "Javob 3": " Mа’lumоtlаr bаzаsini bоshqаrish sistеmаsi bo’lib, u yangi bаzаlаr sistеmаsini yarаtishgа, uni yangi mа’lumоtlаr bilаn to’ldirishgа vа tаhrir qilishgа, hаmdа mа’lumоtlаrni vizuallаshtirishgа mo’ljаllаngаn vоsitаlаr mаjmuidir",
+          "Javob 4": "Bu shundаy mа’lumоtlаr bаzаsiki, undа mа’lumоtlаr ikki o’lchоvli jаdvаllаrdа sаqlаnаdi vа ulаr o’rtаsidа o’rnаtilgаn bоg’lаnish qаytа ishlаsh sаmаrаdоrligini оshirаdi hаmdа bir xil mа’lumоtlаrning tаkrоrlаnishini kаmаytirаdi"
+      },
+      {
+          "id": "86",
+          "Savol": "Windows operatsion sistemani qaysi firma tomonidan ishlab chiqilgan?",
+          "Javob": "Microsoft",
+          "Javob 2": "Aplle",
+          "Javob 3": "Sun",
+          "Javob 4": "Toshiba"
+      },
+      {
+          "id": "87",
+          "Savol": "Masofadan o’qitish deganda nimani tushunasiz?",
+          "Javob": "Internet tarmog’i orqali sizga qulay bo’lgan vaqtda o’qish",
+          "Javob 2": "O’qitish tizimining bir turi",
+          "Javob 3": "Fuqarolarning darsdan tashqari mashg`ulotlarda o`qish jarayoni",
+          "Javob 4": "Maktabdagi o’qituvchi va o’quvchi o’rtasidagi jarayon"
+      },
+      {
+          "id": "88",
+          "Savol": "«Elektron raqamli imzo to’g’risida»gi O’zbekiston Respublikasi qonuni qachon qabul qilingan",
+          "Javob": "11.12.2003 y.",
+          "Javob 2": "30.05. 2002 y.",
+          "Javob 3": "7.11.2002 y.",
+          "Javob 4": "20.05. 2004 y."
+      },
+      {
+          "id": "89",
+          "Savol": "Bugungi kunda Toshkent shahrining o’zida qancha yuridik shaxs “Elektron soliq xizmati” foydalanuvchisi hisoblanadi",
+          "Javob": "6000 dan ziyod",
+          "Javob 2": "9000 ziyod",
+          "Javob 3": "60000",
+          "Javob 4": "3000 dan ziyod"
+      },
+      {
+          "id": "90",
+          "Savol": "Mа’lumоtlаr bаzаsi nima?",
+          "Javob": "Undа mа’lumоtlаr ikki o’lchоvli jаdvаllаrdа sаqlаnаdi vа ulаr o’rtаsidа o’rnаtilgаn bоg’lаnish qаytа ishlаsh sаmаrаdоrligini оshirаdi hаmdа bir xil mа’lumоtlаrning tаkrоrlаnishini kаmаytirаdi",
+          "Javob 2": "Mа’lumоtlаrni sаqlаsh uchun mo’ljаllаngаn tаshkiliy strukturа",
+          "Javob 3": "Mа’lumоtlаr bаzаsini bоshqаrish sistеmаsi",
+          "Javob 4": "Yangi mа’lumоtlаr bаzаsi"
+      },
+      {
+          "id": "91",
+          "Savol": "Mа’lumоtlаr bаzаsi mоdеllаri quyidаgi turlаrgа bo’linаdi:",
+          "Javob": "Dаrаxtsimоn, tаrmоqli, rеlyatsiоn mоdеllаr",
+          "Javob 2": "Tаrmоqli",
+          "Javob 3": "Rеlyatsiоn",
+          "Javob 4": "Dаrахtsimоn"
+      },
+      {
+          "id": "92",
+          "Savol": "Jаdvаllаr оrаsidаgi bоg’lаnish nimа uchun kеrаk?",
+          "Javob": "Аsоsiy jаdvаldаgi birоr m’lumоt o’zgаrsа, uni mоs mа’lumоtli jаdvаllаrdа bir mаrtа аlmаshtirish",
+          "Javob 2": "Mа’lumоtlаrning tаkrоrlаnishlаrini yo’qоtish",
+          "Javob 3": "Hаr xil ko’rinishdаgi yozishlаrgа bаrhаm bеrish",
+          "Javob 4": "Diagramma yasash uchun"
+      },
+      {
+          "id": "93",
+          "Savol": "MB jаdvаldаgi sаtrlаr nimа dеb аtаlаdi",
+          "Javob": "Yozuv",
+          "Javob 2": "Mаtnli mаydоn",
+          "Javob 3": "Mаydоn",
+          "Javob 4": "Sonli maydon"
+      },
+      {
+          "id": "94",
+          "Savol": "“Mijoz-server” texnologiyasida server-koordinator nima vazifani bajaradi?",
+          "Javob": "Turli serverlar o’rtasida ma’lumot uzatilishi protokolini yuritadi",
+          "Javob 2": "MBBT ishlab chiqishga manbalar hosil qiladi",
+          "Javob 3": "Turli masofaviy serverlarda taqsimlangan tranzaktsiyalarni qayta ishlaydi",
+          "Javob 4": "Taqsimlangan ma’muriy boshqaruvni ta’minlaydi"
+      },
+      {
+          "id": "95",
+          "Savol": "Soliq idoralarida har bir soliq to’lovchining elektron hisob varaqalarini himoyalash yo’lida qanday ishlar olib borildi",
+          "Javob": "Elektron imzo tizimi yo’lga qo’yildi",
+          "Javob 2": "Elektron ruxsatnomalar taqdim qilish",
+          "Javob 3": "Alohida taftish guruhi tuzildi",
+          "Javob 4": "Lokal tizim orqali hisob varaqalarini nazorat qilish yo’lga qo’yildi"
+      },
+      {
+          "id": "96",
+          "Savol": "Bankomatlarga joylashtirilgan naqt pullar qutisi qanday nomlanadi",
+          "Javob": "Kasseta",
+          "Javob 2": "Temir seyf",
+          "Javob 3": "Temir quti",
+          "Javob 4": "Planshet"
+      },
+      {
+          "id": "97",
+          "Savol": "Electron tijoratning B2B ko’rinishi B2C tizimidan nimasi bilan farqlanadi?",
+          "Javob": "Ko’p tarmoqliligi bilan",
+          "Javob 2": "B2C tizimidan ko`rinishi bilan",
+          "Javob 3": "Aloqalarga egamasligi bilan",
+          "Javob 4": "Xarakteristikasi bilan"
+      },
+      {
+          "id": "98",
+          "Savol": "O’zbekiston Respublikasi Hukumat portali veb sahifasi manzilini ko’rsating",
+          "Javob": "www.gov.uz",
+          "Javob 2": "www.uz",
+          "Javob 3": "www.ict.gov.uz",
+          "Javob 4": "www.mtrk.uz"
+      },
+      {
+          "id": "99",
+          "Savol": "Amaliy dasturlar joylashgan qatorni ko’rsating?",
+          "Javob": "MS Word, MS Excel, Adobe Photoshop",
+          "Javob 2": "Microsoft Word, WinRar, DrWeb",
+          "Javob 3": "NC, VC, Windows",
+          "Javob 4": "Widows, MS DOS, NC"
+      },
+      {
+          "id": "100",
+          "Savol": "Lokal tarmoq uchun qanday qurilmalar bo’lishi kerak?",
+          "Javob": "Tarmoq karta",
+          "Javob 2": "Multkarta",
+          "Javob 3": "Videokarta",
+          "Javob 4": "Modem"
+      },
+      {
+          "id": "101",
+          "Savol": "EHMlarning birinchi avlodi nimada ishlagan? ",
+          "Javob": " *lampa",
+          "Javob 2": " mikrosxema ",
+          "Javob 3": " tranzistor ",
+          "Javob 4": " integral sxema"
+      },
+      {
+          "id": "102",
+          "Savol": "UzExdagi birja savdolarida www.uzbex.com global savdo maydonchasida, hamda, iPAY tizimiga qo’shilgan internet do’konlarda online to’lo’vlarni amalgam oshirish imkonini beruvchi,O’zbekiston Respublikasi Tovar hom-ashyo birjasining to’lov tizimi bu?",
+          "Javob": "iPAY",
+          "Javob 2": "UZPAY",
+          "Javob 3": "WEBSUM",
+          "Javob 4": "RBK Money"
+      },
+      {
+          "id": "103",
+          "Savol": "SMS-to`lov tizimi O`zbekistonda qachon ishlab chiqilgan?",
+          "Javob": "2010 yil 24-dekabr",
+          "Javob 2": "2012 yil 3-yanvar",
+          "Javob 3": "2011 yil 5-avgust",
+          "Javob 4": "2009 yil 13-noyabr"
+      },
+      {
+          "id": "104",
+          "Savol": "SWIFT -",
+          "Javob": "Butun jahon banklararo moliyaviy to'lov ma’lumot almashish tizimi",
+          "Javob 2": "Banklararo fayllar almashuvi",
+          "Javob 3": "Bank-mijoz",
+          "Javob 4": "Butun jahon ma’lumot almashish SWIFT tizimi"
+      },
+      {
+          "id": "105",
+          "Savol": "Axborotlar texnologiyasining shakllanishi uchun majburiy bo`lgan unsurlarni ko`rsating",
+          "Javob": "Axborotlar, texnik vositalar, dasturiy ta'minot ",
+          "Javob 2": "Axborotlar, mutaxassislar, monitor",
+          "Javob 3": "Texnik vositalar, axborotlar, printerlar",
+          "Javob 4": "Axborotlar, mutaxassislar, texnik vositalar"
+      },
+      {
+          "id": "106",
+          "Savol": "Utilitalar qanday vazifalarni bajaradi?",
+          "Javob": "Komryuterning ishlash samaradorligini oshiradi",
+          "Javob 2": "Dastur tuzishga yordam beradi",
+          "Javob 3": "Grafik ma’lumotlar bilan ishlash imkonini beradi",
+          "Javob 4": "Operatsion tizimni ishga tushiradi"
+      },
+      {
+          "id": "107",
+          "Savol": "Qachondan SWIFT II tarmog`i ishga tushirilgan?",
+          "Javob": "1995 y",
+          "Javob 2": "1994 y",
+          "Javob 3": "1993 y",
+          "Javob 4": "1996 y"
+      },
+      {
+          "id": "108",
+          "Savol": "Masofaviy o’qitish uslubiy materiallariga nimalar kiradi?",
+          "Javob": "Hammasi",
+          "Javob 2": "On-line darslar(internet sahifa)",
+          "Javob 3": "Audio va video",
+          "Javob 4": "Darslik"
+      },
+      {
+          "id": "109",
+          "Savol": "Kоmpyutеrlаrdа аxbоrоtlаr qаysi qismdа sаqlаnаdi?",
+          "Javob": "Qаttiq disklаrdа",
+          "Javob 2": "Yumshоq disklаrdа",
+          "Javob 3": "Prоtsеssоrdа",
+          "Javob 4": "Shinаlаrdа"
+      },
+      {
+          "id": "110",
+          "Savol": "Operativ xotiraning bo’sh turgan qismalariga ta’sir o’tkazuvchi virus turning nomini tanlang",
+          "Javob": "Chuvalchang viruslar",
+          "Javob 2": "Mantiqiy viruslar",
+          "Javob 3": "Qopqon",
+          "Javob 4": "Troyan viruslar"
+      },
+      {
+          "id": "111",
+          "Savol": "Intеrnеtdа yuridik shаxslаr o‘rtаsidаgi оldi/sоtdi tijоrаt ishlаri qаndаy sxеmаdа аmаlgа оshirilishini ko‘rsаting:",
+          "Javob": "B2B",
+          "Javob 2": "B2C",
+          "Javob 3": "C2C",
+          "Javob 4": "B2G"
+      },
+      {
+          "id": "112",
+          "Savol": "Tаrmоqlаrdа mа’lumоtlаrning uzаtilishini tаshkil etilishi bo‘yichа kоmmutаsiyagа аsоslаngаn аsоsiy usullаrni ko‘rsаting",
+          "Javob": "kаnаllаr, pаkеtlаr",
+          "Javob 2": "kаnаllаr, xаbаrlаr, pаkеtlаr",
+          "Javob 3": "xаbаrlаr, kаnаllаr",
+          "Javob 4": "xаbаrlаr, pаkеtlаr"
+      },
+      {
+          "id": "113",
+          "Savol": "Uzbеkistоn Rеspublikаsinining аxbоrоtlаshgаn jаmiyatgа o‘tishdаgi 1- bоsqich qоnuni nеchаnchi yili qаbul qilingаn",
+          "Javob": "1993 yili",
+          "Javob 2": "1992 yili",
+          "Javob 3": "1994 yili",
+          "Javob 4": "1991 yili  "
+      },
+      {
+          "id": "114",
+          "Savol": "Bеlgilаngаn mаqsаdgа erishish uchun аxbоrоtni uzаtish, qаytа ishlаsh vа sаqlаsh uchun qo‘llаnilаdigаn usullаr, shаxslаr vа vоsitаlаrning o‘zаrо bоyolаngаn mаjmuаsi bu",
+          "Javob": "аxbоrоt tizimi",
+          "Javob 2": "axborot texnologiyalari",
+          "Javob 3": "lokal tarmoq",
+          "Javob 4": "Internet"
+      },
+      {
+          "id": "115",
+          "Savol": "Simplеks uzаtishdа mа’lumоtlаr kаndаy tаrtibidа uzаtilаdi?",
+          "Javob": " bir yo‘nаlishdа",
+          "Javob 2": "hаr tоmоnlаmа",
+          "Javob 3": "ikki tomonlama",
+          "Javob 4": "ixtiyoriy rаvishdа"
+      },
+      {
+          "id": "116",
+          "Savol": "Аbоnеntlаr o‘rtаsidа o‘zаrо bоg‘lаnishni vа аxbоrоtlаr uzаtishni tа’minlоvchi аppаrаt vоsitаlаri mаjmuаsi nimа dеb аtаlishini ko‘rsаting",
+          "Javob": "tаrmоq",
+          "Javob 2": "sеrvеr",
+          "Javob 3": "ishchi stаnsiya",
+          "Javob 4": "konsentratot"
+      },
+      {
+          "id": "117",
+          "Savol": " Ekspert tizimlari  qanday tarkibiy qismlardan iborat?",
+          "Javob": " Ma’lumotlar bazasi deb ataluvchi ishchi xotiradan, bilimlar bazasidan, bilimlarni olish qismlardan   ",
+          "Javob 2": "Ma’lumotlar bazasi   va bankidan",
+          "Javob 3": "Bilimlar bazasidan, ma’lumotlar bazasidan",
+          "Javob 4": "Kompyuterning  xotirasida saqlanayotgan ilmiy-texnik axborotlarning turli  to’plamlaridan  "
+      },
+      {
+          "id": "118",
+          "Savol": "«Elektron hukumat» nima?",
+          "Javob": "Axborotlarga elektron ishlov berish, uzatish va tarqatish vositalari asosida davlatni boshqarish tizimi",
+          "Javob 2": "Internet-xavfsizligi tizimi",
+          "Javob 3": "O`zbekiston aloqa va axborotlashtirish agentligi mahsus bo`limi",
+          "Javob 4": "Davlat organlarini maytlarining Internetdagi to`plami"
+      },
+      {
+          "id": "119",
+          "Savol": "Axborot-kommunikatsiya texnologiyalar biznesi ishtirokchilarining o’zaro munosabatlari nimadan iborat ?",
+          "Javob": "Axborot-kommunikatsiyalar texnologiyalarini ishlab chiqarish, Interaktiv xizmatlari, Iste’molchilar",
+          "Javob 2": "Ma’lumotlar ba’zasini yaratish",
+          "Javob 3": "Axborot resurslaridan foydalanish",
+          "Javob 4": "Axborot resurslarini qayta ishlash, uzatish, tarqatish, qabul qilish"
+      },
+      {
+          "id": "120",
+          "Savol": "Axborot faoliyatidagi tadbirkorlik turli xildagi axborot mahsulotlarini tarqatish va uyg’unlashtirish uchun qanday sharoitlarni yuzaga keltiradi:",
+          "Javob": "Korxona va tashkilotlarning rentabelligini ta’minlash, istiqbolli texnologiyalarni tadbiq etish, ish samaradorligini oshirish",
+          "Javob 2": "Ichki va tashqi bozorlarda mahsulot sotish hajmini qisqartirish",
+          "Javob 3": "Ishlab chiqarish hajmini barqarorlashtirish,  istiqbolli texnologiyalarni tadbiq etish, ish samaradorligini oshirish",
+          "Javob 4": "Korxona va tashkilotlarni reklama qilish, istiqbolli texnologiyalarni tadbiq etish, ish samaradorligini oshirish"
+      },
+      {
+          "id": "121",
+          "Savol": "Ma’lumotlar banki tarkibiga nimalar kiradi?",
+          "Javob": "Ma’lumotlar bazasi va MBBT",
+          "Javob 2": "Sof axborotlar yig’indisi",
+          "Javob 3": "Ma’lumotlar bazasini boshqarish tizimi",
+          "Javob 4": "Ma’lumotlar jamlamasi"
+      },
+      {
+          "id": "122",
+          "Savol": "Аxbоrоtlаr tеxnоlоgiyasini yarаtish tаmоyillаri: ",
+          "Javob": "Iqtisоdiy, tаshkiliy, tеxnikаviy, ijtimоiy",
+          "Javob 2": "Iqtisоdiy, tеxnikаviy, tаshkiliy",
+          "Javob 3": "Tаshkiliy, tеxnikаviy, ijtimоiy",
+          "Javob 4": "Iqtisоdiy, ijtimоiy"
+      },
+      {
+          "id": "123",
+          "Savol": "Birinchi avlod EHM nechinchi yili va kim tomonidan yaratilgan?",
+          "Javob": "1946 yili amerikalik olim Dj. Neyman tomonidan",
+          "Javob 2": "1673 yili nemis olimi Leybnits tomonidan",
+          "Javob 3": "1645 yili fransuz olimi Bluz Paskal tomonidan",
+          "Javob 4": "1957 yili rus olimi Lebeder rahbarligida"
+      },
+      {
+          "id": "124",
+          "Savol": "Kompyuterlarning dasturiy ta’minoti qanday dasturlar majmuasidan tashkil topadi?",
+          "Javob": "Tizimli dasturlar, amaliy dasturlar, dasturlash texnologiyasining uskunaviy vositalari",
+          "Javob 2": "Tizimli dasturlar, translyatorlardan",
+          "Javob 3": "Utilitalar, translyatorlardan",
+          "Javob 4": "Tizimli dasturlar, utilitalardan"
+      },
+      {
+          "id": "125",
+          "Savol": "MS Word, Excel, Power Point va Acces dasturiy ta’minotning qaysi turiga mansub?",
+          "Javob": "Umumiy maqsadli dasturiy ta'minot ",
+          "Javob 2": "Hisoblash jarayonini tashkil qilish",
+          "Javob 3": "Uslubiy yo’naltirilgan",
+          "Javob 4": "Muammoli yo’naltirilgan"
+      },
+      {
+          "id": "126",
+          "Savol": "MBBTlаrni tаshkil qilishdа yuqоri dаrаjаdаgi prоgrаmmаlаsh tillаri",
+          "Javob": "Clipper, Paradox, foxPro Microsoft Access lаr",
+          "Javob 2": "Paradox, Clipper, Misrosoft WORD foxPro lаr",
+          "Javob 3": "FoxPro Clipper, Paradox, Microsoft Office lаr",
+          "Javob 4": "Clipper, Paradox, foxpro,Microsoft Excel lаr"
+      },
+      {
+          "id": "127",
+          "Savol": "Kompyuter tarmoqlari deb nimaga aytiladi?",
+          "Javob": "Kompyuterlarning o‘zaro axborot almashinishi uchun aloqa kanallari bilan bog'langan kompyuterlar  majmufsiga",
+          "Javob 2": "EHM ning lokal tarmoqlari bir korxona, muassasaning bir yoki bir qancha yaqin binolaridagi abonentlariga",
+          "Javob 3": "Tarmoqning barcha ishchi stansiyalar so‘rovlarini qayta ishlash uchun ajratilgan ko‘p foydalanuvchili kompyuter bo‘lib, u bu stansiyalarga umumiy tizim resurslariga murojaat qilish imkonini beradi va bu resurslariga",
+          "Javob 4": "Kommutatsiya yo’llari orqali IP bog’lanishda foydalanuvchi modemi provayderiga"
+      },
+      {
+          "id": "128",
+          "Savol": "Kompyuter tarmoqlarining asosan necha turga bo’linadi?",
+          "Javob": "Lokal, regional va global tarmoqlari",
+          "Javob 2": "Lokal va global tarmoqlari",
+          "Javob 3": "Internet tarmoqlari",
+          "Javob 4": "Lokal tarmoq, regional"
+      },
+      {
+          "id": "129",
+          "Savol": "Modem qurilmasining asosiy vazifasi nimadan iborat?",
+          "Javob": "Ikkilik kodlarni analog signallarga o`tkazadi va aksincha",
+          "Javob 2": "Ikkilik kodlarni analog signallarga o`tkazadi",
+          "Javob 3": "Faqat analog signallarni ikkilik kodlarga o`tkazadi",
+          "Javob 4": "Analog signallarni kuchsizlantiradi"
+      },
+      {
+          "id": "130",
+          "Savol": "Internet-2 tarmog’iga qachon to’liq o’tildi?",
+          "Javob": "2011 yil avgust",
+          "Javob 2": "1995 yil may",
+          "Javob 3": "2010 yil fevral",
+          "Javob 4": "1999 yil yanvar"
+      },
+      {
+          "id": "131",
+          "Savol": "Tarmoqning dastur ta’minoti nechta qismdan tashkil topgan?",
+          "Javob": "3 ta",
+          "Javob 2": "5 ta",
+          "Javob 3": "4 ta",
+          "Javob 4": "2 ta"
+      },
+      {
+          "id": "132",
+          "Savol": "Masofadan o’qitish deganda nimani tushunasiz?",
+          "Javob": "Internet tarmog’i orqali sizga qulay bo’lgan vaqtda o’qish",
+          "Javob 2": "O’qitish tizimining bir turi",
+          "Javob 3": "Fuqarolarning darsdan tashqari mashg`ulotlarda o`qish jarayoni",
+          "Javob 4": "Maktabdagi o’qituvchi va o’quvchi o’rtasidagi jarayon"
+      },
+      {
+          "id": "133",
+          "Savol": "Chakana savdo tashkilotlarida pul mablag’larini electron o’tkazish banklararo tizimini ko’rsating",
+          "Javob": "EFTPOS",
+          "Javob 2": "SWIFT",
+          "Javob 3": "Intranet",
+          "Javob 4": "Ethernet"
+      },
+      {
+          "id": "134",
+          "Savol": "Serverda saqlash bilan bir qatorda ma’lumotlarni mazmunli qayta ishlash bajariladigan tizimlar qanday ataladi?",
+          "Javob": "   “mijoz server” tizimi",
+          "Javob 2": "teleqayta ishlash tizimi",
+          "Javob 3": "axborot tizimi",
+          "Javob 4": "hisoblash tizim"
+      },
+      {
+          "id": "135",
+          "Savol": "Lokal hisoblash tarmog`i ikki guruhga bo`linadi. Ular qaysilar?",
+          "Javob": "peer-to-peer tarmog`i va mijoz server",
+          "Javob 2": " markazlashtirilgan va \r\nmarkazlashtirilmagan murojaat qilish usuli\r\n",
+          "Javob 3": "mijoz server” va “file server” tizimi",
+          "Javob 4": "ntranet va internet"
+      },
+      {
+          "id": "136",
+          "Savol": "Elektron xabarlar bilan e-mailni boshqaruvchi server nima deb ataladi?",
+          "Javob": "mailserver",
+          "Javob 2": " faxserver",
+          "Javob 3": "databankserver",
+          "Javob 4": "      printserver"
+      },
+      {
+          "id": "137",
+          "Savol": "Tarmoqni boshqarish markazidan boshqariladigan murojaat qilish usuli qaysi?",
+          "Javob": "    markazlashtirilgan murojaat qilish usuli",
+          "Javob 2": "markazlashtirilmagan murojaat qilish usuli",
+          "Javob 3": "tasodifiy murojaat qilish usuli",
+          "Javob 4": "determinirlangan murojaat qilish usuli"
+      },
+      {
+          "id": "138",
+          "Savol": "  Ma’lumotlarni tashkil etish, saqlash va mijozlarga uzatish jarayonlarini bajaradigan tizimlar nima deyiladi?",
+          "Javob": " “file server” tizimi",
+          "Javob 2": "axborot tizimi",
+          "Javob 3": " hisoblash tizim",
+          "Javob 4": "mijoz server” tizimi"
+      },
+      {
+          "id": "139",
+          "Savol": "Ma’lumotlarni shifrlash standarti qachon va qayerda qabul qilingan?",
+          "Javob": "1976 yil AQSh da",
+          "Javob 2": "1980 yil AQShda",
+          "Javob 3": "1978 yil Germaniyada ",
+          "Javob 4": " 1977 yil Rossiyada"
+      },
+      {
+          "id": "140",
+          "Savol": " Ikki yoki undan ortiq kompyuterlarning yagona maqsad yo`lida birlashtirilishiga nima deyiladi?",
+          "Javob": "tarmoq",
+          "Javob 2": "internet",
+          "Javob 3": " topologiya",
+          "Javob 4": "aloqa"
+      },
+      {
+          "id": "141",
+          "Savol": "Axborot himoyasining dasturlar vositasining turlari va amaliyotda alohida o`rniga ega axborotni birdan-bir ishonchli himoyasi qanday ataladi?",
+          "Javob": "ma’lumotlarni shifrlash",
+          "Javob 2": "bma’lumotlarni himoyalash ",
+          "Javob 3": "axborot himoyasi",
+          "Javob 4": "axborot xavfsizligi"
+      },
+      {
+          "id": "142",
+          "Savol": "    Kamida ikki tarmoqli chiqishlariga ega bo`lgan, to`liq qiymatli, nisbatan unumdorli, xotirali kompyuterlar nima deb ataladi?",
+          "Javob": " bridge",
+          "Javob 2": "xab",
+          "Javob 3": "router",
+          "Javob 4": "svitch"
+      },
+      {
+          "id": "143",
+          "Savol": "  Tarmoqning nechta asosiy topologiyalari mavjud?",
+          "Javob": " 3 ta",
+          "Javob 2": "4 ta",
+          "Javob 3": "5 ta",
+          "Javob 4": "6 ta"
+      },
+      {
+          "id": "144",
+          "Savol": "Lokal hisoblash tarmog`i tarkibi qaysi qatorda to`g`ri ko`rsatilgan?",
+          "Javob": "server, ishchi stansiya, resurslar, ma’lumotlarni uzatish kanali",
+          "Javob 2": "peer-to-peer tarmog`i va mijoz server",
+          "Javob 3": " disk-server va file-server",
+          "Javob 4": "markazlashtirilgan va markazlashtirilmagan murojaat qilish usuli"
+      },
+      {
+          "id": "145",
+          "Savol": " Internet tarmog`ida elektron pochtadan foydalanganda shifrlashning qaysi usuli keng tarqalgan",
+          "Javob": "simmetrik bo`lmagan usul",
+          "Javob 2": "   determinirlangan usul",
+          "Javob 3": "assimmetrik usul",
+          "Javob 4": " to`g`ri javob yo`q"
+      },
+      {
+          "id": "146",
+          "Savol": "Ma’lumotlar formatini belgilovchi va ular sintaksisini tarmoqqa qulay shaklni qayta tuzadigan daraja qaysi qatorda keltirilgan?",
+          "Javob": "taqdim etish darajasi",
+          "Javob 2": "transportli daraja ",
+          "Javob 3": "uzatish darajasi",
+          "Javob 4": "bitli uzatish darajasi"
+      },
+      {
+          "id": "147",
+          "Savol": "Har bir kompyuterlar orasidagi tarmoqni o`rab olish huquqini uzatish prinsipi va ketma-ketligiga asoslangan topologiya qaysi?",
+          "Javob": "     almashinuvni boshqarish topologiyasi",
+          "Javob 2": " passiv yulduz topologiyasi",
+          "Javob 3": "    axborotiy topologiya",
+          "Javob 4": "mantiq topologiyasi"
+      },
+      {
+          "id": "148",
+          "Savol": " Axborotiy topologiya deb qanday topologiyaga aytiladi",
+          "Javob": "tarmoqda uzatilayotgan axborot oqimining yo`nalishi",
+          "Javob 2": " to`g`ri javob yo`q",
+          "Javob 3": "kompyuterlarni joylashish sxemasi va kabellarning yotqizilishi",
+          "Javob 4": "aloqalar tuzilishi, signallarning tarmoq bo`yicha tarqalish xarakteri"
+      },
+      {
+          "id": "149",
+          "Savol": "Ethernet tarmog`ida qaysi topologiyadan foydalaniladi?",
+          "Javob": "passiv yulduz topologiyasi",
+          "Javob 2": "mantiq topologiyasi",
+          "Javob 3": "fizik topologiya",
+          "Javob 4": " yulduz topologiyasi"
+      },
+      {
+          "id": "150",
+          "Savol": "Bitta yoki bir nechta ma’lumotlar ombori joylashgan va ular orqali ishchi stansiyalar boshqariladigan server qaysi?",
+          "Javob": " databankserver",
+          "Javob 2": "to`g`ri javob yo`q",
+          "Javob 3": "mailserver",
+          "Javob 4": "faxserver "
+      },
+      {
+          "id": "151",
+          "Savol": "Elektron xabarlarni lokal tarmoqdan qabul qiluvchi va fakslarni yuboruvchi server qaysi?",
+          "Javob": "faxserver  ",
+          "Javob 2": " printserver ",
+          "Javob 3": " mailserver ",
+          "Javob 4": " databankserver"
+      },
+      {
+          "id": "152",
+          "Savol": "Tarmoqdagi barcha kompyuterlar bir xil kirish huquqiga ega bo`lgan kompyuter tarmog`i qanday ataladi?",
+          "Javob": "peer-to-peer tarmog`i",
+          "Javob 2": "lokal tarmoq",
+          "Javob 3": "mijoz-server",
+          "Javob 4": "internet"
+      },
+      {
+          "id": "153",
+          "Savol": "Axborotni aloqa kanali bo`ylab manbadan qabul qilgichga ko`chirish jarayoni qanday ataladi?",
+          "Javob": "uzatish ",
+          "Javob 2": "   qabul qilish",
+          "Javob 3": "jo`natish",
+          "Javob 4": " to`g`ri javob yo`q"
+      },
+      {
+          "id": "154",
+          "Savol": "Kompyuterlarning dasturiy ta’minoti qanday dasturlar majmuasidan tashkil topadi",
+          "Javob": "Tizimli dasturlar, amaliy dasturlar, utilitalar, translyatorlardan",
+          "Javob 2": "Tizimli dasturlar, utilitalardan;",
+          "Javob 3": "Utilitalar, translyatorlardan.",
+          "Javob 4": "Tizimli dasturlar, translyatorlardan"
+      },
+      {
+          "id": "155",
+          "Savol": "Soliq idoralarida har bir soliq to’lovchining elektron hisob varaqalarini himoyalash yo’lida qanday ishlar olib borildi",
+          "Javob": "Elektron imzo tizimi yo’lga qo’yildi",
+          "Javob 2": "  Elektron ruxsatnomalar taqdim qilish  ",
+          "Javob 3": "  Alohida taftish guruhi tuzildi",
+          "Javob 4": " Lokal tizim orqali hisob varaqalarini nazorat qilish yo’lga qo’yildi"
+      },
+      {
+          "id": "156",
+          "Savol": "Lokal tarmoq uchun qanday qurilmalar bo’lishi kerak ?",
+          "Javob": "Setkarta",
+          "Javob 2": "Multkarta",
+          "Javob 3": "Videokarta",
+          "Javob 4": "   Modem"
+      },
+      {
+          "id": "157",
+          "Savol": "Axborotlar texnologiyasining shakllanishi uchun majburiy bo`lgan unsurlarni ko`rsating",
+          "Javob": "Axborotlar, texnik vositalar, ma`lumotlar",
+          "Javob 2": "Axborotlar, mutaxassislar, monitor",
+          "Javob 3": "Texnik vositalar, axborotlar, printerlar",
+          "Javob 4": "   Axborotlar, mutaxassislar, texnik vositalar"
+      },
+      {
+          "id": "158",
+          "Savol": "Utilitalar qanday vazifalarni bajaradi? ",
+          "Javob": "Komryuterning ishlash samaradorligini oshiradi",
+          "Javob 2": "Dastur tuzishga yordam beradi",
+          "Javob 3": "  Grafik ma’lumotlar bilan ishlash imkonini beradi",
+          "Javob 4": "   Operatsion tizimni ishga tushiradi. "
+      },
+      {
+          "id": "159",
+          "Savol": "Global tarmoq uchun qanday qurilmalar bo’lishi kerak ? ",
+          "Javob": "Modem",
+          "Javob 2": "Videokarta",
+          "Javob 3": "  Setkarta",
+          "Javob 4": "Multkarta"
+      },
+      {
+          "id": "160",
+          "Savol": "Masofaviy o’qitish  uslubiy materiallariga nimalar kiradi?",
+          "Javob": "Hammasi",
+          "Javob 2": "On-line darslar(internet sahifa)",
+          "Javob 3": "   Audio va video",
+          "Javob 4": "  Darslik"
+      },
+      {
+          "id": "161",
+          "Savol": "Markaziy kompyuter mavjud bo‘lib, unga qolgan barcha kompyuterlar bog‘langan bo‘lsa, bunday bog‘lanish qanday ataladi?",
+          "Javob": "Xalqasimon",
+          "Javob 2": "Shinali",
+          "Javob 3": "  Yulduzsimon",
+          "Javob 4": "  Bunday bog‘lanishga nom berilmagan"
+      },
+      {
+          "id": "162",
+          "Savol": "Internetdan foydalanish uchun qaysi dasturdan foydalaniladi ?",
+          "Javob": "Brauzer dasturi",
+          "Javob 2": "WWW  dasturi",
+          "Javob 3": "   Dilfi  dasturi",
+          "Javob 4": "Network dasturi"
+      },
+      {
+          "id": "163",
+          "Savol": "Amaliy dasturlar joylashgan qatorni ko’rsating? ",
+          "Javob": "MS Word,MS Excel, Adobe Photoshop",
+          "Javob 2": "Microsoft Word, WinRar, DrWeb",
+          "Javob 3": " NC, VC, Windows",
+          "Javob 4": " Widows,MS DOS, NC"
+      },
+      {
+          "id": "164",
+          "Savol": "Buxgalteriya tizimida qanday dasturiy ta’minotlar ishlatiladi",
+          "Javob": " “1C:Buxgalteriya”, “Parus”, “Infosoft”, “Xakers-Dizayn”",
+          "Javob 2": "“BIOS”, “Globus, “Parus”.",
+          "Javob 3": "  “Mijoz server” , “Antihaker”, “Infosoft” ",
+          "Javob 4": "   “Mijoz server”, “Parus”, “Antihaker”,"
+      },
+      {
+          "id": "165",
+          "Savol": "Tarmoqning dastur ta’minoti nechta qismdan tashkil topgan?",
+          "Javob": "3 ta",
+          "Javob 2": "2 ta",
+          "Javob 3": "   4 ta",
+          "Javob 4": "  5 ta"
+      },
+      {
+          "id": "166",
+          "Savol": "Elektron tijorat tizimi ishtirokchilari toifasini aniqlang",
+          "Javob": "Sub’yektlar",
+          "Javob 2": "Kontrogetlar",
+          "Javob 3": "   Obyektlar",
+          "Javob 4": "Electron do’kon"
+      },
+      {
+          "id": "167",
+          "Savol": "“Mijoz-server” texnologiyasida server-koordinator nima vazifani bajaradi",
+          "Javob": "Turli serverlar o’rtasida ma’lumot uzatilishi protokolini yuritadi ",
+          "Javob 2": "MBBT ishlab chiqishga manbalar hosil qiladi ",
+          "Javob 3": "  Turli masofaviy serverlarda taqsimlangan tranzaktsiyalarni qayta ishlaydi",
+          "Javob 4": "Taqsimlangan ma’muriy boshqaruvni ta’minlaydi "
+      },
+      {
+          "id": "168",
+          "Savol": "MBBSlаrni tаshkil qilishdа yuqоri dаrаjаdаgi prоgrаmmаlаsh tillаri",
+          "Javob": ". Clipper, Paradox, foxPro Microsoft Access lаr",
+          "Javob 2": "Paradox, Clipper, Misrosoft  WORD foxPro lаr",
+          "Javob 3": "   FoxPro Clipper, Paradox, Microsoft Office lаr",
+          "Javob 4": " Clipper, Paradox, foxpro,Microsoft Excel lаr"
+      },
+      {
+          "id": "169",
+          "Savol": "Kаrtоchkа egаlаrigа xizmаt ko‘rsаtish vа o‘zining xususiy mаblаg‘lаri hisоbigа sаvdо kоrxоnаlаri bilаn hisоb-kitоblаrni аmаlgа оshiruvchi bаnk turini ko‘rsаting:",
+          "Javob": "Bаnk emitеnt",
+          "Javob 2": "Bаnk ekvаyеr",
+          "Javob 3": "Bаnkоmаt",
+          "Javob 4": "Billing"
+      },
+      {
+          "id": "170",
+          "Savol": "Kоmpyutеr rеsurslаrini bоshqаrishdа buyruqlаrni fоydаlаnuvchi tоmоnidаn kiritilishini ko‘zdа tutuvchi jаryon bu: ",
+          "Javob": "Buyruq intеrfеysi",
+          "Javob 2": "Pаpkа",
+          "Javob 3": "Mulоqоt оynаsi",
+          "Javob 4": "Оpеrаsiоn tizim"
+      },
+      {
+          "id": "171",
+          "Savol": "Banklar, birjalar, savdo va bоshqаlаr faoliyatini avtomatlashtirish uchun mo‘ljallangan аmаliy dаsturlаr pаkеti (АDP) turini ko‘rsаting:",
+          "Javob": "Nosanoat sohasidagi muammoli yo‘naltirilgan ADP",
+          "Javob 2": "Mаxsus АDP",
+          "Javob 3": "Umumyo‘nаltirilgаn АDP",
+          "Javob 4": "Sаnоаt sоhаsigа yo‘nаltirilgаn АDP"
+      },
+      {
+          "id": "172",
+          "Savol": "Аvtоmаtlаshtirilgаn ish joyi yoki o‘rni dеgаndа nimаni e’tibоrdа tutаsiz? ",
+          "Javob": "Mа’lum bir fаоliyat jаrаyonining EHMdа dаstur аsоsidа bаjаrilishini",
+          "Javob 2": "INTERNET tаrmоg‘igа dаsturiy ulаnishni",
+          "Javob 3": "Fаyl - sеrvеrdа аxbоrоtlаrgа ishlоv bеrishni",
+          "Javob 4": "Kоmpyutеrdа turli аxbоrоtlаrgа ishlоv bеrishni"
+      },
+      {
+          "id": "173",
+          "Savol": "Iqtisоdiy аxbоrоt bоshqаrish funktsiyasigа ko‘rа guruhlаrini ko‘rsаting: ",
+          "Javob": "Nаzоrаt qilish, iqtisоdiy tаhlil, hisоbоt оlish, rеjаlаshtirish",
+          "Javob 2": "Statistik guruhlash",
+          "Javob 3": "Sаnоаt, аlоqа, hisоbоt оlish, rеjаlаshtirish",
+          "Javob 4": "Trаnspоrt, hisоbоt оlish, rеjаlаshtirish, kiruvchi"
+      },
+      {
+          "id": "174",
+          "Savol": "Axborot tizimlari yoki axborot resurslariga kim egalik qilishi mumkin?",
+          "Javob": "Yuridik yoki jismoniy shaxslar",
+          "Javob 2": "Tarmoқ administratori",
+          "Javob 3": "Kompaniya direktori",
+          "Javob 4": "Tashkilot raҳbari"
+      },
+      {
+          "id": "175",
+          "Savol": "O’zbekiston Respublikasining ”Axborotlashtirish to’g’risida”gi qonuniga muvofig’ faoliyat yurituvchi, alog’a va axborotlashtirish sohasini muvofiqlashtiruvchi boshqaruv organi kim?",
+          "Javob": "O’zR aloqa,  axborotlashtirish va telekommunikastiya texnologiyalari davlat qo’mitasi",
+          "Javob 2": "O’zbekiston matbuot va axborot agentligi",
+          "Javob 3": "O’zbekiston Respublikasi intellektual mulk agentligi",
+          "Javob 4": "«O’zbektelekom» akstionerlik kompaniyasi"
+      },
+      {
+          "id": "176",
+          "Savol": "Axborotlashtirish sohasini davlat tomonidan tartibga solish kim tomonidan amalga oshiriladi? ",
+          "Javob": "O’zbekiston Respublikasi Vazirlar Mahkamasi va u maxsus vakolat bergan organ tomonidan",
+          "Javob 2": "Yuridik shaxs tomonidan",
+          "Javob 3": "Vakolatli hokimiyat organi tomonidan",
+          "Javob 4": "Maxsus vakolatli organ tomonidan"
+      },
+      {
+          "id": "177",
+          "Savol": "Elektron o’quv kursi tizim sifatida qaysi funktsional blokni o’z ichiga oladi? ",
+          "Javob": "axborot-mazmun, nazorat-kommunikativ, to’g’rilovchi-umumlashtiruvchi bloklar  ",
+          "Javob 2": "axborot-mazmun bloki  ",
+          "Javob 3": "to’g’rilovchi-umumlashtiruvchi bloklar  ",
+          "Javob 4": "axborot- umumlashtiruvchi bloklar  "
+      },
+      {
+          "id": "178",
+          "Savol": "Elektron darslik yaratish dasturiy vositalari",
+          "Javob": "Programmalashtirish tillari, instrumental dasturiy vositalar, konstruktor dasturlar   ",
+          "Javob 2": "Gipermatn texnologiya",
+          "Javob 3": "multimedia",
+          "Javob 4": "dasturiy vositalar,"
+      },
+      {
+          "id": "179",
+          "Savol": "Kompyuterli texnologiyaning kontseptual asoslari quyidagilardan iborat",
+          "Javob": "axborotni taqdim qilishning yangi shakli, Yangi kutubxonalar, O’quv mashg’ulotlarining yangi shakli, Ta’limning yangi tuzilishi",
+          "Javob 2": "telekommunikatsiya vositalari yordamida axborot uzatilishi",
+          "Javob 3": "Ta’limda universitet tuzilishini paydo bo’lishi",
+          "Javob 4": "Darslarni virtual seminar va laborotoriya tartibida olib borish imkoniyati yuzaga keldi"
+      },
+      {
+          "id": "180",
+          "Savol": "Axborot tizimi deb nimaga aytiladi?",
+          "Javob": "Axborot tizimi deb oldinga qo’yilgan maqsadga erishish uchun axborotlarni saqlash, qayta ishlash va uzatish metodlari va vositalari yig’indisiga aytiladi.",
+          "Javob 2": "har qanday tizim, tizimni tashkil etishning umumiy printsipi asosida tahlil qilinadi va boshqariladi va u axborot tizimi deyiladi.",
+          "Javob 3": "Axborot tizimi – bir vaqtning o’zida yagona ob’ekt xamda maqsadga erishish uchun to’plangan elementlar yig’indisi sifatida tushuniladi.",
+          "Javob 4": "Matematik metod va intellektual tizimlarni qo’llab, boshqarishning optimal variantlarini olish axborot tizimi deyiladi.."
+      },
+      {
+          "id": "181",
+          "Savol": "Biror ob’ekt holati haqidagi yangi, sifatli axborotga ega bo’lish uchun, birlamchi axborotni yig’ish,qayta ishlash va uzatish vositalari yig’indisidan foydalanish jarayoni qanday aytiladi?",
+          "Javob": "Axborot texnologiyalari. ",
+          "Javob 2": "Tarmoq texnologiyalari",
+          "Javob 3": "Axborot tizimlari.",
+          "Javob 4": "Boshqaruv axborot texnologiyalari."
+      },
+      {
+          "id": "182",
+          "Savol": "Kompyuter tarmoqlari va boshqa zamonaviy axborotlarni qayta ishlash va uzatish vositalari yordamida ichki va tashqi muxit orasida kommunikatsiya jarayonlarini tashkil etish texnologiyasi nima deb ataladi?",
+          "Javob": "Ofisni avtomatlashtirish axborot texnologiyasi",
+          "Javob 2": "Axborot texnologiyasi.",
+          "Javob 3": "Boshqaruv axborot texnologiyalari.",
+          "Javob 4": "Avtomatlashtirilgan axborot tizimlari."
+      },
+      {
+          "id": "183",
+          "Savol": "Har qanday texnologiyaning majburiy komponenti nima?",
+          "Javob": "Ma’lumotlar bazasi",
+          "Javob 2": "Texnologiya",
+          "Javob 3": "Tizim",
+          "Javob 4": "Dastur"
+      },
+      {
+          "id": "184",
+          "Savol": "Kommutatsiya kanalining bir uchidagi hujjatni o’qish va uning tasvirini kommutatsiya kanalining ikkinchi uchida qayta tiklab bera oladigan faks-apparatlaridan foydalanishga asoslangan aloqa nima deb ataladi? ",
+          "Javob": "Faksimil aloqa",
+          "Javob 2": "Simsiz aloqa",
+          "Javob 3": "Simli aloqa",
+          "Javob 4": "A va B to’g’ri"
+      },
+      {
+          "id": "185",
+          "Savol": "Kompyuterlarning o’zaro axborot almashish imkoniyatlarini beruvchi qurilmalar majmui nima deb ataladi?",
+          "Javob": "Kompyuter tarmoqlari",
+          "Javob 2": "Texnologiya",
+          "Javob 3": "Ma’lumotlar bazasi",
+          "Javob 4": "Brauzer"
+      },
+      {
+          "id": "186",
+          "Savol": "Biror tuman, viloyat yoki respublika miqyosidagi kompyuterlarni o’zida mujassamlashtirgan tarmoq qanday nomlanadi?",
+          "Javob": "Mintaqaviy tarmoq",
+          "Javob 2": "Lokal tarmoq",
+          "Javob 3": "Global tarmoq",
+          "Javob 4": "Korporativ tarmoq"
+      },
+      {
+          "id": "187",
+          "Savol": "Lokal tarmoqlarda axborot almashinish qanday  amalga oshiriladi? ",
+          "Javob": "aloqa kabellari (ba’zan, telefon tizimi yoki radiokanal) orqali",
+          "Javob 2": "Kompyuter orqali",
+          "Javob 3": "Uyali telefon orqali",
+          "Javob 4": "Korporativ tarmoq orqali"
+      },
+      {
+          "id": "188",
+          "Savol": "Bir binoda yoki bir-biriga yaqin binolarda joylashgan kompyuterlarda o’zaro axborot almashish imkonini beruvchi tarmoq  qanday nomlanadi?",
+          "Javob": "Lokal tarmoq",
+          "Javob 2": "Mintaqaviy tarmoq",
+          "Javob 3": "Global tarmoq",
+          "Javob 4": "Korporativ tarmoq"
+      },
+      {
+          "id": "189",
+          "Savol": "Lokal xisoblash tarmoqlarining asosiy komponentlariga nimalar kiradi?",
+          "Javob": "A,V,C javoblar to’g’ri",
+          "Javob 2": "Ma’lumot almashinish muxiti",
+          "Javob 3": "Ishchi stantsiyalar",
+          "Javob 4": "Serverlar"
+      },
+      {
+          "id": "190",
+          "Savol": "Lokal xisoblash tarmoqlarining ma’lumotlar almashinish muxiti qanday turlarga bo’linadi?",
+          "Javob": "A,B,C javoblar to’g’ri",
+          "Javob 2": "Simsiz aloqa kanali",
+          "Javob 3": "Ikkita simni bir-bir atrofida o’rash natijasida xosil qilingan kabel (Vitaya para)",
+          "Javob 4": "Koaksial va optik tolali kabellar"
+      },
+      {
+          "id": "191",
+          "Savol": "Simsiz aloqa kanali qanda turlarga bo’linadi?",
+          "Javob": "Infraqizil to’lqinlar, lazer to’lqinlar, radioaloqa",
+          "Javob 2": "Ikkita simni bir-bir atrofida o’rash natijasida xosil qilingan kabel (Vitaya para)",
+          "Javob 3": "Koaksial va optik tolali kabellar",
+          "Javob 4": "Uyali aloqa"
+      },
+      {
+          "id": "192",
+          "Savol": "Lokal xisoblash tarmoqlari qanday turlarga bo’linadi?",
+          "Javob": "B,C javoblar to’g’ri",
+          "Javob 2": "Server asosida qurilgan lokal xisoblash tarmoqlari",
+          "Javob 3": "Yagona rang arxitekturasi asosidagi lokal xisoblash tarmoqlari ",
+          "Javob 4": "Parallel tarzda qurilgan lokal xisoblash tarmoqlari"
+      },
+      {
+          "id": "193",
+          "Savol": "Internet tarmog’ida Axborot xizmatlariga nimalar kiradi?",
+          "Javob": "A,B javoblar to’g’ri",
+          "Javob 2": "Qulay vaqtlarda ma’lumotlarni o’zaro almashish. Misol uchun elektron pochta mana shu tarzda ishlaydi. Yuboruvchi ma’lumotni qabul qiluvchining pochta qutisiga jo’natadi. ",
+          "Javob 3": "Bunga axborotlardan foydalanishga ruxsat beruvchi xizmatlar kiradi. Tarmoqning axborot resurslariga, ya’ni serverda mavjud bo’lgan axborotlarni olish. Misol uchun xujjatlar, fayllar, xar xil turdagi ma’lumotlar bazasidan axborotlarni olish va boshqalar.",
+          "Javob 4": "Tarmoqqa shaxsiy ma’lumotlarni joylashtirish. Ma’lumotlarni joylashtirish uchun tarmoqda juda xam ko’p miqdorda serverlar mavjud bo’lib, ularga bepul ma’lumotlar joylashtirish mumkin. "
+      },
+      {
+          "id": "194",
+          "Savol": "Internet tarmog’ida Kommunikatsion xizmatlar nimalar kiradi?",
+          "Javob": "C, D javoblar to’g’ri ",
+          "Javob 2": "Bunga axborotlardan foydalanishga ruxsat beruvchi xizmatlar kiradi. Tarmoqning axborot resurslariga, ya’ni serverda mavjud bo’lgan axborotlarni olish. Misol uchun xujjatlar, fayllar, xar xil turdagi ma’lumotlar bazasidan axborotlarni olish va boshqalar.",
+          "Javob 3": "Qulay vaqtlarda ma’lumotlarni o’zaro almashish. Misol uchun elektron pochta mana shu tarzda ishlaydi. Yuboruvchi ma’lumotni qabul qiluvchining pochta qutisiga jo’natadi. ",
+          "Javob 4": "Real vaqt rejimida ma’lumot almashish. Misol uchun tarmoq orqali so’zlashish. Bularga chat serverlari xizmatlari kiradi."
+      },
+      {
+          "id": "195",
+          "Savol": "WEB-texnologiyasining hozirgi kunda axborotni ko’rish uchun  turli vositalar mavjud,  ular qanday nomlanadi",
+          "Javob": "Brauzer",
+          "Javob 2": "Tarmoq",
+          "Javob 3": "Ma’lumot",
+          "Javob 4": "Axborot"
+      },
+      {
+          "id": "196",
+          "Savol": "Qaysi javobda brauzerlar nomi to’g’ri  ko’rsatilgan?",
+          "Javob": "A,B javoblar to’g’ri",
+          "Javob 2": "Opera va Windows  brauzerlari",
+          "Javob 3": "Opera va Lynx brauzerlari ",
+          "Javob 4": "Netscape Navigator va Microsoft Internet Explorer brauzerlari"
+      },
+      {
+          "id": "197",
+          "Savol": "Interaktiv texnologiyalarga quyida keltirilganlarning qaysilari misol bo’ladi?",
+          "Javob": "A,B,C javoblar to’g’ri",
+          "Javob 2": "Elektron pochta orkali ta’lim. Uzokdan boshkarish sistemalar. Onlayn simulyator va ukuv dasturlar",
+          "Javob 3": "Internet orkali mustakil ta’lim olish. .. Test topshirish sistemalari",
+          "Javob 4": "Internet masofaviy ta’lim portali. Video va audio konferentsiyalar. "
+      },
+      {
+          "id": "198",
+          "Savol": "Uzib-ulagich. Kompyuterlarni mahalliy tarmoqqa birlashtirish  uchun qanday qurilmadan foydalaniladi? ",
+          "Javob": "SWITCH qurilmalai",
+          "Javob 2": "Telefon",
+          "Javob 3": "Tarmoq adapteri (kartasi) ",
+          "Javob 4": "HUB qurilmasi,"
+      },
+      {
+          "id": "199",
+          "Savol": "Kompyuterlarni mahalliy tarmoqqa ulash uchun qanday qurilma ishlatiladi?",
+          "Javob": "HUB qurilmasi,",
+          "Javob 2": "Tarmoq adapteri (kartasi) ",
+          "Javob 3": "SWITCH qurilmalai",
+          "Javob 4": "Telefon"
+      }
+  ]
