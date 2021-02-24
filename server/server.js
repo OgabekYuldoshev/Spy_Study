@@ -2,9 +2,7 @@ const http = require("http")
 const express = require("express");
 const helmet = require("helmet")
 const morgan = require("morgan")
-const iakt = require("./iakt.json")
 const rus = require("./rus.json")
-const uzb = require("./uzb.json")
 
 
 const app = express();
