@@ -18,10 +18,6 @@ app.use(express.static("public"))
 app.use(helmet())
 app.use(morgan("combined"));
 
-app.get("/iakt", (req, res)=>{
-    res.json(iakt)
-})
-
 app.get("/rus", (req, res)=>{
     res.json(rus)
 })
