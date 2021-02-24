@@ -22,13 +22,6 @@ app.get("/rus", (req, res)=>{
     res.json(rus)
 })
 
-app.get("/uzb", (req, res)=>{
-    res.json(uzb)
-})
-
-app.get("*", (req, res)=>{
-    res.send("Nothing")
-})
 
 
 
