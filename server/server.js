@@ -1,20 +1,18 @@
 const http = require("http")
 const express = require("express");
-const iq = require("./iq.json")
+const eng = require("./eng.json")
 
 
 const app = express();
 const server = http.createServer(app)
 
 
-
-
 //MiddleWare
 app.use(express.static("public"))
 
 
-app.get("/iq", (req, res)=>{
-    res.json(iq)
+app.get("/eng", (req, res)=>{
+    res.json(eng)
 })
 
 

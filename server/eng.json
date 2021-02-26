@@ -1,0 +1,902 @@
+[
+        {
+            "Savol": " A fast train runs _____ than a slow train. ",
+            "Javob": " faster    "
+        },
+        {
+            "Savol": " \"So you started reading Spanish novels a year ago.\" \"Well, in fact, I _____ read Spanish novels before that.\" ",
+            "Javob": "had"
+        },
+        {
+            "Savol": "Here is a picture of … town where I lived.",
+            "Javob": "the"
+        },
+        {
+            "Savol": "Which pen do you want?",
+            "Javob": "The blue one"
+        },
+        {
+            "Savol": "I wanted a purple bike but they only had....",
+            "Javob": "a green one"
+        },
+        {
+            "Savol": "Children  are  very  fond  ___  swimming.",
+            "Javob": "of"
+        },
+        {
+            "Savol": " She is so ….-minded: she cannot accept any ideas different  from her own.",
+            "Javob": "narrow"
+        },
+        {
+            "Savol": "Meeting new people doesn't worry her; she is a very self-… young woman.",
+            "Javob": "confident"
+        },
+        {
+            "Savol": "I always have a laugh with my cousin -he's got a great sense of …",
+            "Javob": "humour"
+        },
+        {
+            "Savol": "     He doesn't like company. He always works _____.",
+            "Javob": "alone"
+        },
+        {
+            "Savol": "Haven't you finished the shopping, … ?",
+            "Javob": "yet"
+        },
+        {
+            "Savol": "When does he always wake up?",
+            "Javob": "He always wakes up at 9:00"
+        },
+        {
+            "Savol": "I … many children in the garden now.",
+            "Javob": "see"
+        },
+        {
+            "Savol": "We have been waiting for you _____.",
+            "Javob": "for an hour"
+        },
+        {
+            "Savol": "Where is … yellow tie? It is on … bed.",
+            "Javob": "the/the"
+        },
+        {
+            "Savol": " A statement about what  something is like : …",
+            "Javob": "description"
+        },
+        {
+            "Savol": "There are … buses today and I can’t go shopping.",
+            "Javob": "no"
+        },
+        {
+            "Savol": "I brought … books from the library.",
+            "Javob": "some"
+        },
+        {
+            "Savol": "The reporter asked the old lady if she had spent _____ on toys",
+            "Javob": "any money    "
+        },
+        {
+            "Savol": "Here are … books by English writers. Take … book you like.",
+            "Javob": "some/any"
+        },
+        {
+            "Savol": "Ten thousand dollars …..a lot of money",
+            "Javob": "is"
+        },
+        {
+            "Savol": "Be careful! You ... the chair",
+            "Javob": "will break"
+        },
+        {
+            "Savol": "There are different groups of experts,  all working in their own specialized  …",
+            "Javob": "field"
+        },
+        {
+            "Savol": "    The whole thing is much simpler _____ you think.",
+            "Javob": "than "
+        },
+        {
+            "Savol": "If she … Peter, he’ll stay",
+            "Javob": "asks"
+        },
+        {
+            "Savol": "We've been living in the new house...2008",
+            "Javob": "since"
+        },
+        {
+            "Savol": " Everyone in my country has heard of her; she's   very …",
+            "Javob": " famous"
+        },
+        {
+            "Savol": "Teenagers want to be …and wear all the latest styles.",
+            "Javob": "fashionable"
+        },
+        {
+            "Savol": "A description  of the main features of something; …",
+            "Javob": "overview"
+        },
+        {
+            "Savol": "They asked me to look ….. their flat while they were on holiday",
+            "Javob": "after"
+        },
+        {
+            "Savol": "    It's nice to be _____ friends.",
+            "Javob": "among"
+        },
+        {
+            "Savol": "Is your friend British or American? ……. He is Australian.",
+            "Javob": "neither"
+        },
+        {
+            "Savol": "This is a church … many years ago.",
+            "Javob": "built"
+        },
+        {
+            "Savol": "What do you spend most money….? Your flat rent or entertainment?",
+            "Javob": "on"
+        },
+        {
+            "Savol": "     We met when we were _____.",
+            "Javob": "on holiday "
+        },
+        {
+            "Savol": "I... bought a chair for my apartment",
+            "Javob": "myself"
+        },
+        {
+            "Savol": "They say she died of a heart …",
+            "Javob": "attack"
+        },
+        {
+            "Savol": "I have got this terrible … in my neck from sleeping in the wrong position.",
+            "Javob": "pain "
+        },
+        {
+            "Savol": "You must be… when you drive in wet weather.",
+            "Javob": "careful"
+        },
+        {
+            "Savol": " The land, water and air that people live in: …",
+            "Javob": "environment"
+        },
+        {
+            "Savol": "The factory is in the... part of the city, and it is not attractive.",
+            "Javob": "industrial"
+        },
+        {
+            "Savol": "The profit that a company makes for its investors: …",
+            "Javob": "shareholder value"
+        },
+        {
+            "Savol": " He would have drowned if he _____ swim.",
+            "Javob": "had not "
+        },
+        {
+            "Savol": "It is winter. Everything… with snow",
+            "Javob": "is covered"
+        },
+        {
+            "Savol": "An ability to understand something clearly: …",
+            "Javob": "insight"
+        },
+        {
+            "Savol": "The amount of work that a person has to do: …",
+            "Javob": "workload"
+        },
+        {
+            "Savol": "It is hard to know what Sam thinks- he does not really … hes feelings.",
+            "Javob": "show"
+        },
+        {
+            "Savol": "Considering something in order to discover how good or bad it is: …",
+            "Javob": "evaluation"
+        },
+        {
+            "Savol": "No wonder Mary is cross with you. You ... to her for quite a long time",
+            "Javob": "haven't written"
+        },
+        {
+            "Savol": "Your jeans were dirty so I put them in the.. with mine.",
+            "Javob": "washing machine"
+        },
+        {
+            "Savol": "It's important to … a good impression on your first day in a new job.",
+            "Javob": "make"
+        },
+        {
+            "Savol": "He works for the Bank, ....?",
+            "Javob": "doesn’t he?"
+        },
+        {
+            "Savol": "What …? Is she a lawyer?",
+            "Javob": "does she do"
+        },
+        {
+            "Savol": "Who … Russian in class?",
+            "Javob": "speaks"
+        },
+        {
+            "Savol": "  That's the tenth whisky you _____ this evening.",
+            "Javob": "have drunk "
+        },
+        {
+            "Savol": " A comment about  something you have seen, heard of felt: …",
+            "Javob": "observation"
+        },
+        {
+            "Savol": "  _____ we spend our holidays at the seaside. ",
+            "Javob": "every year  "
+        },
+        {
+            "Savol": "The glass in the shop window is…",
+            "Javob": "unbreakable"
+        },
+        {
+            "Savol": "We booked our holiday through a ... ",
+            "Javob": "travel agent"
+        },
+        {
+            "Savol": "I can't wait. I'm _____ a hurry.",
+            "Javob": "in"
+        },
+        {
+            "Savol": "    Don't be late _____ your music lesson.",
+            "Javob": "for"
+        },
+        {
+            "Savol": "    Don't drink so much tea, it's bad _____ your stomach.",
+            "Javob": "for"
+        },
+        {
+            "Savol": "  She spends all her money _____ clothes.",
+            "Javob": "on"
+        },
+        {
+            "Savol": "About half an hour … I saw Mr. Brown",
+            "Javob": "ago"
+        },
+        {
+            "Savol": "Do you go …………often?",
+            "Javob": "abroad"
+        },
+        {
+            "Savol": "She's just got a …-time job now. She works three hours a day.",
+            "Javob": "part"
+        },
+        {
+            "Savol": "We have to go to the supermarket ... some bread and milk.",
+            "Javob": "to get"
+        },
+        {
+            "Savol": "I have to go to the bank ... some money.",
+            "Javob": "to get"
+        },
+        {
+            "Savol": "    If you _____ to town tomorrow, will you do some shopping for me?",
+            "Javob": "go"
+        },
+        {
+            "Savol": "Organizations that give help to people who need it: …",
+            "Javob": "charities"
+        },
+        {
+            "Savol": "My mother asked me if I was hungry, But I said that I … dinner.",
+            "Javob": "had already had"
+        },
+        {
+            "Savol": "Bahodir... away from work all this week",
+            "Javob": "has been"
+        },
+        {
+            "Savol": "I... about my father's death before my mother returned",
+            "Javob": "had been told"
+        },
+        {
+            "Savol": "He ... go to see the accountant this morning",
+            "Javob": "must"
+        },
+        {
+            "Savol": "    _____ study hard when you were at school?",
+            "Javob": "did you have to"
+        },
+        {
+            "Savol": "\"I... me test yet today\" said Ann.",
+            "Javob": "haven't been given"
+        },
+        {
+            "Savol": "My opinion of this book is... from yours",
+            "Javob": "different"
+        },
+        {
+            "Savol": "Everybody looked at the … girl.",
+            "Javob": "dancing"
+        },
+        {
+            "Savol": "She put a plate of … fish in front of me.",
+            "Javob": "fried"
+        },
+        {
+            "Savol": "Bill  ___  his  girl-friend  now.  That’s  the  third  time  he  ___  her  this evening.",
+            "Javob": "is phoning / has phoned"
+        },
+        {
+            "Savol": "    Yesterday it _____ continuously when I was going to the cinema.",
+            "Javob": "was raining    "
+        },
+        {
+            "Savol": "She prefers a place of her own; for the time being, however, she... with her aunt",
+            "Javob": "is staying"
+        },
+        {
+            "Savol": "She said she ... my book any more.",
+            "Javob": "wouldn't take"
+        },
+        {
+            "Savol": "    You hardly ever panic, _____ you? ",
+            "Javob": "do"
+        },
+        {
+            "Savol": "After World War II many colonies of the European countries... independent. Since then these countries ... their own government.",
+            "Javob": "became/have formed"
+        },
+        {
+            "Savol": "We were extremely tired at the end of the journey. We... for more than 24 hours",
+            "Javob": "had been traveling"
+        },
+        {
+            "Savol": "  He would be very happy if you _____ what he asked.",
+            "Javob": "did"
+        },
+        {
+            "Savol": "   We _____ our new car for three days when my husband crashed it. ",
+            "Javob": "had had"
+        },
+        {
+            "Savol": "As soon as I shut the front door I realized that I … my key in the house",
+            "Javob": "had left"
+        },
+        {
+            "Savol": " The captain of the ocean liner has just asked a sailor if _____ seen a white whale near the African coast.",
+            "Javob": "he has ever   "
+        },
+        {
+            "Savol": "I can make breakfast … .",
+            "Javob": "myself"
+        },
+        {
+            "Savol": "He died of … cancer but he never smoked a cigarette in his life. ",
+            "Javob": "lung"
+        },
+        {
+            "Savol": "Ted and Nick looked for … dog for a long time. They found a little one, but it wasn’t … .",
+            "Javob": "their/theirs"
+        },
+        {
+            "Savol": "An important, interesting or typical part of something: …",
+            "Javob": "feature"
+        },
+        {
+            "Savol": "Knowledge or skill you get from being in different situations: …",
+            "Javob": "experience"
+        },
+        {
+            "Savol": "Mary wanted to go out, but she couldn't find a …for the children.",
+            "Javob": "babysitter"
+        },
+        {
+            "Savol": "... have you been waiting?",
+            "Javob": "For how long"
+        },
+        {
+            "Savol": "  Only three _____ cheering wildly when the American pop group appeared on the stage.",
+            "Javob": "hundred people were   "
+        },
+        {
+            "Savol": "   Don't disturb me. _____ an important report.",
+            "Javob": "I’m writing"
+        },
+        {
+            "Savol": "I am sure he can find the place; he just needs to use his common…",
+            "Javob": "sense"
+        },
+        {
+            "Savol": "He arrived ... Heathrow airport on Friday morning",
+            "Javob": "at"
+        },
+        {
+            "Savol": "Their parents came … car yesterday",
+            "Javob": "by"
+        },
+        {
+            "Savol": "What did you hear … the radio?",
+            "Javob": "on"
+        },
+        {
+            "Savol": "Every year, he goes to the coast for his holidays....",
+            "Javob": "by train"
+        },
+        {
+            "Savol": "A date by which you have to do something: …",
+            "Javob": "deadline"
+        },
+        {
+            "Savol": "I wish the weather … nice now.",
+            "Javob": "were"
+        },
+        {
+            "Savol": "Suddenly, we heard a loud noise, but outside, there ........there!",
+            "Javob": "was nobody"
+        },
+        {
+            "Savol": "The dress …. very rarely.",
+            "Javob": "is bought"
+        },
+        {
+            "Savol": "It's a big factory. Five hundred people ... there.",
+            "Javob": "are employed"
+        },
+        {
+            "Savol": "When I was young I... to be a teacher.",
+            "Javob": "wanted"
+        },
+        {
+            "Savol": "She... extremely hard when she was a student",
+            "Javob": "had worked"
+        },
+        {
+            "Savol": "Nobody … hungry.",
+            "Javob": "is"
+        },
+        {
+            "Savol": "Ann and Nick are friends, …?",
+            "Javob": "aren’t they"
+        },
+        {
+            "Savol": "John is the manager, you need to speak to …..",
+            "Javob": "him"
+        },
+        {
+            "Savol": "These are very good exercises. Do … at home, please.",
+            "Javob": "them"
+        },
+        {
+            "Savol": "An ability to do something  well, especially because you have practised it: …",
+            "Javob": "skill"
+        },
+        {
+            "Savol": "    I haven't seen Jenny _____.",
+            "Javob": " for a long time"
+        },
+        {
+            "Savol": "    Can you _____ me five pounds?",
+            "Javob": "lend"
+        },
+        {
+            "Savol": "   It looks _____ rain.",
+            "Javob": "like"
+        },
+        {
+            "Savol": "There’s only …….. housework for you to do. I did most of it yesterday.",
+            "Javob": "a little"
+        },
+        {
+            "Savol": "Simon ... in Madrid since 1982",
+            "Javob": "has lived"
+        },
+        {
+            "Savol": "What is the capital of Scotland?",
+            "Javob": "Edinburgh"
+        },
+        {
+            "Savol": "What is the capital of Northern Ireland?",
+            "Javob": "Belfast"
+        },
+        {
+            "Savol": "Michael .... in Paris since 1999.",
+            "Javob": "has lived"
+        },
+        {
+            "Savol": "The first coins in America... in 1752. They were not regular in shape",
+            "Javob": "were made"
+        },
+        {
+            "Savol": "she has got a little shop near the market, where she sells second-… things.",
+            "Javob": "hand"
+        },
+        {
+            "Savol": "He can’t go to see her tonight. He hasn’t got … time.",
+            "Javob": "much"
+        },
+        {
+            "Savol": "He eats … fish",
+            "Javob": "much"
+        },
+        {
+            "Savol": "Many purchasing decisions are made at the point of …",
+            "Javob": "sale "
+        },
+        {
+            "Savol": "I had to pay a forty-pound… for not having a parking ticket.",
+            "Javob": "fine"
+        },
+        {
+            "Savol": "     Please drive _____; you're making me nervous.",
+            "Javob": "more slowly"
+        },
+        {
+            "Savol": "\"Look at that new computer he's bought! He _______ spent a fortune on it!\"",
+            "Javob": "must have"
+        },
+        {
+            "Savol": "They ….to arrive at 12.30 but they didn’t.",
+            "Javob": "were to"
+        },
+        {
+            "Savol": "I have a little money, so I … go to the cinema.",
+            "Javob": "can"
+        },
+        {
+            "Savol": "     You _____ a university degree for this job. You'll only have to write letters and answer the phone.",
+            "Javob": "don’t need   "
+        },
+        {
+            "Savol": "You don't look very well. Maybe you ... see a doctor.",
+            "Javob": "ought to"
+        },
+        {
+            "Savol": "I haven’t got …",
+            "Javob": "any money"
+        },
+        {
+            "Savol": "I’ve lost my keys. I can’t find them ...",
+            "Javob": "anywhere"
+        },
+        {
+            "Savol": "Examining  something in order to understand it: …",
+            "Javob": "analysis"
+        },
+        {
+            "Savol": " An idea or plan that you offer for someone to consider: …",
+            "Javob": "suggestion"
+        },
+        {
+            "Savol": "     Mike is afraid _____ spiders.",
+            "Javob": "of"
+        },
+        {
+            "Savol": " If you hurry, you will be in Burton _____ midnight.",
+            "Javob": "by"
+        },
+        {
+            "Savol": "There is a mistake … this sentence.",
+            "Javob": "in"
+        },
+        {
+            "Savol": "... time ... time, I really enjoy an evening at home.",
+            "Javob": "from/to"
+        },
+        {
+            "Savol": "Our customers have seen the pumps … the plant and are quite pleased … their operation.",
+            "Javob": "at/with"
+        },
+        {
+            "Savol": "Many products are identical from the consumer's point of …",
+            "Javob": "view"
+        },
+        {
+            "Savol": "We made dinner … .",
+            "Javob": "ourselves"
+        },
+        {
+            "Savol": " An opinion about how successful someone is: …",
+            "Javob": "appraisal"
+        },
+        {
+            "Savol": "I'm sorry, I'm late. There was a terrible…on the motorway.",
+            "Javob": "traffic jam"
+        },
+        {
+            "Savol": "It was a very badly-… article: terrible punctuation and lots of spelling mistakes.",
+            "Javob": "written"
+        },
+        {
+            "Savol": "She had some apples that weren't ready to eat; now she 's got stomach … ",
+            "Javob": "ache"
+        },
+        {
+            "Savol": "Choose the word logically out of the group",
+            "Javob": "pumpkin"
+        },
+        {
+            "Savol": "My brother loves …, but I never read stuff like that about the future.",
+            "Javob": "science fiction"
+        },
+        {
+            "Savol": "Do you think … impressions are cvery important? I do.",
+            "Javob": "first"
+        },
+        {
+            "Savol": "    I've got a very good _____ with the BBC.",
+            "Javob": "job"
+        },
+        {
+            "Savol": "Most people have to pay…on their salary; the more you earn, the more you pay.",
+            "Javob": "income tax"
+        },
+        {
+            "Savol": "Packaging is the manufacturer's last … to seduce the customer. ",
+            "Javob": "chance"
+        },
+        {
+            "Savol": "A 100 gram bag is 80 pence, but the200gram bag is only $1.20, so it is more … to buy the larger bag.",
+            "Javob": "economical"
+        },
+        {
+            "Savol": "We waited at the … for 20 minutes, then three arrived at the same time.",
+            "Javob": "bus stop"
+        },
+        {
+            "Savol": "Choose the word logically out of the group",
+            "Javob": "punish"
+        },
+        {
+            "Savol": "I'll never forget..... Rosa win the Eurovision",
+            "Javob": "seeing"
+        },
+        {
+            "Savol": "Money paid because  someone is injured or has lost their job: …",
+            "Javob": "compensation"
+        },
+        {
+            "Savol": "   Could you tell me when _____ on Saturdays?",
+            "Javob": "shops open   "
+        },
+        {
+            "Savol": "    I'll wait here _____ 8 o'clock.",
+            "Javob": "until  "
+        },
+        {
+            "Savol": "     Let's play cards _____ dinner.",
+            "Javob": "after"
+        },
+        {
+            "Savol": "Information that someone  knows: …",
+            "Javob": "knowledge"
+        },
+        {
+            "Savol": "Jane is a fashion designer, but currently she ... shoes",
+            "Javob": "is selling"
+        },
+        {
+            "Savol": "People need … oxygen for breathing.",
+            "Javob": "─"
+        },
+        {
+            "Savol": "Do you like … apples?",
+            "Javob": "─"
+        },
+        {
+            "Savol": "I can’t find my book … . I have looked all over the house",
+            "Javob": "anywhere"
+        },
+        {
+            "Savol": "    My brother's son is my _____.",
+            "Javob": "nephew"
+        },
+        {
+            "Savol": "If you are in Madrid, you can come and visit me ... you like.",
+            "Javob": "whenever"
+        },
+        {
+            "Savol": "   Yesterday I _____ my son's trousers.",
+            "Javob": "sewed"
+        },
+        {
+            "Savol": "   If you come, _____ a friend with you.",
+            "Javob": "bring"
+        },
+        {
+            "Savol": "  I feel _____ after all this typing.",
+            "Javob": "terribly tired"
+        },
+        {
+            "Savol": "Mr. Dupont is …",
+            "Javob": "a Frenchman"
+        },
+        {
+            "Savol": "     This is _____ restaurant in Bangkok.",
+            "Javob": "the worst"
+        },
+        {
+            "Savol": "You are taller … Mary",
+            "Javob": "than"
+        },
+        {
+            "Savol": "... sugar for my coffee!",
+            "Javob": "There isn't any"
+        },
+        {
+            "Savol": "Don’t show this letter to … mother.",
+            "Javob": "your"
+        },
+        {
+            "Savol": "A set of rules for behaving correctly: …",
+            "Javob": "etiquette"
+        },
+        {
+            "Savol": "     _____ boots were where they left them.",
+            "Javob": "the three players’"
+        },
+        {
+            "Savol": "    Two gangsters entered _____ the bank.",
+            "Javob": "___ "
+        },
+        {
+            "Savol": "We're really looking forward ... on holiday",
+            "Javob": "to going"
+        },
+        {
+            "Savol": "George ... fly to Stockholm tomorrow",
+            "Javob": "is going to"
+        },
+        {
+            "Savol": "The teacher made him … the rule.",
+            "Javob": "repeat"
+        },
+        {
+            "Savol": "He’s looking forward ... that film",
+            "Javob": "to seeing"
+        },
+        {
+            "Savol": "Don’t start ...",
+            "Javob": "shouting!"
+        },
+        {
+            "Savol": "The company informed … us … their new model.",
+            "Javob": "-/about"
+        },
+        {
+            "Savol": "When I am driving I always wear…if it's very bright and sunny.",
+            "Javob": "sunglasses"
+        },
+        {
+            "Savol": "It's terrible that there are so many… people in the country that is so rich.",
+            "Javob": "homeless"
+        },
+        {
+            "Savol": "I can't understand a word of these instructions-they're…",
+            "Javob": "incomprehensible"
+        },
+        {
+            "Savol": "     Smoking is a bad _____ of yours.",
+            "Javob": "habit"
+        },
+        {
+            "Savol": "I ... getting up early. I do it every day",
+            "Javob": "am used to"
+        },
+        {
+            "Savol": "The tourist information office was very…, and told us everuthing we needed to know.",
+            "Javob": "helpful"
+        },
+        {
+            "Savol": "We have never had problems with our TV in ten years; it's been very…",
+            "Javob": "reliable"
+        },
+        {
+            "Savol": "Treating someone unfairly in order to get a benefit  for yourself: …",
+            "Javob": "exploiting"
+        },
+        {
+            "Savol": "    How long does the train _____ from London to Edinburgh take?",
+            "Javob": "journey"
+        },
+        {
+            "Savol": "    How long does it _____ to get to London?",
+            "Javob": "take"
+        },
+        {
+            "Savol": "  Be polite if you _____ me to help you.",
+            "Javob": "want   "
+        },
+        {
+            "Savol": "To tell someone you might cause them harm: …",
+            "Javob": "threaten"
+        },
+        {
+            "Savol": "The dress ... this week. We haven’t got any left.",
+            "Javob": "has been bought"
+        },
+        {
+            "Savol": " After he _____ the answer, the judge started to laugh.",
+            "Javob": "had heard   "
+        },
+        {
+            "Savol": "The teacher... attendance when I arrived",
+            "Javob": "was taking"
+        },
+        {
+            "Savol": "John and I went for a walk. I had difficulty in keeping up with him because he ... so fast.",
+            "Javob": "was walking"
+        },
+        {
+            "Savol": "The weather... bad for the last few days and I think it... even cooler",
+            "Javob": "has been/will become"
+        },
+        {
+            "Savol": "She... sure he... in a taxi or in a private car",
+            "Javob": "was/would be"
+        },
+        {
+            "Savol": "I washed my hair; then I discovered that the … was not working.",
+            "Javob": "hairdryer"
+        },
+        {
+            "Savol": "When I got to the dentist, I had to sit in the…for 40 minutes.",
+            "Javob": "waiting room"
+        },
+        {
+            "Savol": "They _____ to the theatre twice so far his month",
+            "Javob": "have been"
+        },
+        {
+            "Savol": "The park gates ... at 6.30 p.m. every evening",
+            "Javob": "are locked"
+        },
+        {
+            "Savol": "He ..… for you at 7 in the evening next Sunday.",
+            "Javob": "will be waiting"
+        },
+        {
+            "Savol": "If I didn't have to work, I … the beach.",
+            "Javob": "would move to"
+        },
+        {
+            "Savol": "I … if you come too late tomorrow",
+            "Javob": "shall be sleeping"
+        },
+        {
+            "Savol": "If you  … to place an order, we … a deposit of 25%.",
+            "Javob": "wish/require"
+        },
+        {
+            "Savol": "   We went by car and the children went _____ foot. ",
+            "Javob": "on"
+        },
+        {
+            "Savol": "    Do you know _____ I met last Saturday?",
+            "Javob": "who  "
+        },
+        {
+            "Savol": "   He won't be late, _____ he?",
+            "Javob": "will"
+        },
+        {
+            "Savol": "A person who had a job before someone else: …",
+            "Javob": "predecessor"
+        },
+        {
+            "Savol": "     My uncle arrived while I _____ dinner.",
+            "Javob": "was cooking"
+        },
+        {
+            "Savol": " I wish I … to the cinema yesterday.",
+            "Javob": "had gone"
+        },
+        {
+            "Savol": "He wishes he … much money now.",
+            "Javob": "had"
+        },
+        {
+            "Savol": "  I _____ accepted the job if I had known the conditions in the factory",
+            "Javob": "would have never   "
+        },
+        {
+            "Savol": "He has watched TV… .",
+            "Javob": "this morning"
+        },
+        {
+            "Savol": "   When _____ Mr. Jones?",
+            "Javob": "did you meet  "
+        }
+]
